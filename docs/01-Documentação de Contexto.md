@@ -1,6 +1,11 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Cada vez mais os métodos tradicionais de assinaturas e autenticação de documentos são substituídos por inovações tecnológicas, como as assinaturas digitais. O principal objetivo da assinatura digital, assim como outras assinaturas eletrônicas, é autenticar rapidamente um documento com uma marca exclusivamente identificável que não exija o uso de papel e caneta.
+
+Segundo uma matéria publicada pelo jornal estadão no dia 14 de JANEIRO, 2021, Barueri, SP. (DINO – 22 ago, 2019) – As imobiliárias em São Paulo têm um fluxo grande de assinaturas de contratos de locação, e gastam  em média R$10.000,00 por mês entre custos com papelada, cartórios e armazenamento. E em média, cada contrato leva cerca de 10 dias até ser redigido, assinado pelas partes, registrado em cartório e armazenado – fisicamente, diga-se de passagem – na imobiliária. Um processo caro, trabalhoso e burocrático que pode ser reduzido; redução essa que pode variar entre 50% a 90% só com os custos cartorários.
+
+Então, este software irá auxiliar amplamente quem utiliza contratos digitais; processos judiciais; declaração de imposto de renda e obtenção de documentos e envios em cartórios. 
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
