@@ -8,7 +8,8 @@ Então, este software irá auxiliar amplamente quem utiliza contratos digitais; 
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+
+Por tanto, facilitar as assinaturas de documentos é algo fundamental para a fluidez dos processos. Por isso, qualquer atraso pode acarretar em mais  prejuízos e burocracias.  Para se ter uma ideia, o valor médio para  reconhecimento de assinaturas em cartórios é de R$10,00 a R$19,00 para cada reconhecimento; sendo necessário uma documentação extensa, no ato do reconhecimento, e disponibilidade para ir ao cartório. Pensando nisso, nossa solução busca resolver esta logística entre cartório, casa e empresa; garantindo assim agilidade e segurança para os stakeholders, visando também o conforto e bem estar daqueles que possuem alguma comorbidade e/ou maiores dificuldades de deslocamento.
 
 Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
 
@@ -21,26 +22,28 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+O objetivo deste trabalho visa a criação de um software que facilite as pessoas e entidades dispostas a efetuar algum tipo de assinatura, de forma digital.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Entre os objetivos específicos temos:
+
+* Permitir que os usuários assinem digitalmente entre os diversos tipos de documentos, em qualquer hora do dia e lugar.
+* Facilitar os processos de assinaturas dos usuários, melhorando a produtividade e segurança.
+* Diminuição do papel, essa diminuição acarreta na economia e no impacto negativo da sociedade no meio ambiente.
+
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O projeto de assinaturas digitais visa agilizar processos em que há a necessidade de uma assinatura. A contribuição deste software é facilitar  processos de maneira ágil, auxiliar na produtividade, eficiência econômica e facilitar o armazenamento. Em um mundo cada vez mais digital, o papel e a caneta tornaram-se defasados e ineficazes devido à quantidade de documentos e a baixa produtividade que isso gera.  
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+Embora este software seja para todo tipo de público, nossa proposta tem como objetivo homens e mulheres dos 20 aos 45 anos; que trabalham em ramos como: construtoras; contabilidades; escritórios de advocacia e secretarias. Tenham ensino médio ou superior completo. Que utilizam celulares e computadores no seu meio de trabalho e necessitam de assinar  grandes volumes de documentos a distância. 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
