@@ -20,7 +20,7 @@ Este trabalho visa a criação de um software que facilite as pessoas e entidade
 
 ## Orientador
 
-* Nome completo do professor 1
+* Luciana De Nardin
 
 ## Instruções de utilização
 
