@@ -2,11 +2,12 @@
 
 Análise e Desenvolvimento de Sistemas - PUC Minas Virtual
 
-`DISCIPLINA`
+Eixo 2 - Projeto: Desenvolvimento de uma Aplicação Interativa 
 
-`SEMESTRE`
+Segundo Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Este trabalho visa a criação de um software que facilite as pessoas e entidades dispostas a efetuar algum tipo de assinatura, de forma digital.
+
 
 ## Integrantes
 
