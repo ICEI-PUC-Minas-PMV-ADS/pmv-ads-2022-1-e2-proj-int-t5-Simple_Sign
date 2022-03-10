@@ -6,6 +6,8 @@ A definição do problema e os pontos mais relevantes a serem tratados neste pro
 
 ## Personas
 
+As personas levantadas durante o processo de entendimento do problema são apresentadas na Figuras que se seguem.
+
  ### Amanda Pinheiro
 
 ![Amanda](img/AmandaPinheiro.png)
