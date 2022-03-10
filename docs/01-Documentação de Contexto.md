@@ -45,7 +45,6 @@ O projeto de assinaturas digitais visa agilizar processos em que há a necessida
 
 Embora este software seja para todo tipo de público, nossa proposta tem como objetivo homens e mulheres dos 20 aos 45 anos; que trabalham em ramos como: construtoras; contabilidades; escritórios de advocacia e secretarias. Tenham ensino médio ou superior completo. Que utilizam celulares e computadores no seu meio de trabalho e necessitam de assinar  grandes volumes de documentos a distância. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
