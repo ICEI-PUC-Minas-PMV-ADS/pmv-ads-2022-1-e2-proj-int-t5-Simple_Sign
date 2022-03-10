@@ -42,7 +42,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Amanda              | Visualizar documentos pendentes de assinatura          | Otimizar meu tempo |
-|Amanda              | Alterar permissões                 | Permitir que possam administrar contas |
+|Amanda              | Visualizar os documentos já assinados                 | Para gerenciar as demanda |
 |Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
 |Rodrigo             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
