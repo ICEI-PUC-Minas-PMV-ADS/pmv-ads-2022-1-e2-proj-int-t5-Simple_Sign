@@ -13,6 +13,28 @@ As personas levantadas durante o processo de entendimento do problema são apres
 ![Amanda](img/AmandaPinheiro.png)
 
 
+ ### Rodrigo Souza Lima
+
+![Rodrigo](img/RodrigoSouzaLima.png)
+
+
+ ### Patricia Gonçalves
+
+![Patricia](img/PatriciaGolcalves.png)
+
+
+ ### Leticia Prado
+
+![Leticia](img/LeticiaPrado.png)
+
+
+ ### Julia Takahashi
+
+![Julia](img/JuliaTakahashi.png)
+
+
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
