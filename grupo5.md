@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Simple_Sign
 
 Análise e Desenvolvimento de Sistemas - PUC Minas Virtual
 
