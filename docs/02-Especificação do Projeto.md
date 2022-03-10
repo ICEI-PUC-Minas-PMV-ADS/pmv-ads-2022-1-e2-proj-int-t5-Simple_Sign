@@ -43,13 +43,13 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Amanda              | Visualizar documentos pendentes de assinatura          | Otimizar meu tempo |
 |Amanda              | Visualizar os documentos já assinados                 | Para gerenciar as demanda |
-|Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
-|Rodrigo             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
-|Patricia            | Alterar permissões                 | Permitir que possam administrar contas |
-|Leticia             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Julia               | Alterar permissões                 | Permitir que possam administrar contas |
-|Julia               | Alterar permissões                 | Permitir que possam administrar contas |
+|Rodrigo             | Enviar os documentos a serem assinados para vários clientes                 | economizar tempo e dinheiro |
+|Rodrigo             | Receber alerta de documentos pendentes           | Controlar a o processo               |
+|Rodrigo             | Poder arquivar os documentos assinados                  | Economizar papéis |
+|Patricia            | Assinar vários documentos online                | Não precisar me locomover |
+|Leticia             | Baixar os documentos assinados           | Facilitar o trabalho               |
+|Julia               | Postar vários documentos                 | Melhorar qualidade na demanda |
+|Julia               | Enviar os documentos através de emails                  | Facilitar o processo |
 
 
 
