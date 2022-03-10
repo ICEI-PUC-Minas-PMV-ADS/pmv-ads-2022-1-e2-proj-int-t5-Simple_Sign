@@ -15,7 +15,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  ### Rodrigo Souza Lima
 
-![Rodrigo](img/RodrigoSouzaLima.png)
+![Rodrigo](img/RodrigoSouza.png)
 
 
  ### Patricia Gonçalves
