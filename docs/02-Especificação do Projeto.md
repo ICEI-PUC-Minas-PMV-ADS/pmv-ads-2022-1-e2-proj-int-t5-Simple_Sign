@@ -41,15 +41,15 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|Amanda              | Visualizar documentos pendentes de assinatura          | Não esquecer de fazê-las               |
+|Amanda              | Alterar permissões                 | Permitir que possam administrar contas |
+|Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
+|Rodrigo             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Rodrigo             | Alterar permissões                 | Permitir que possam administrar contas |
+|Patricia            | Alterar permissões                 | Permitir que possam administrar contas |
+|Leticia             | Registrar minhas tarefas           | Não esquecer de fazê-las               |
+|Julia               | Alterar permissões                 | Permitir que possam administrar contas |
+|Julia               | Alterar permissões                 | Permitir que possam administrar contas |
 
 
 
