@@ -104,4 +104,4 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-![caso_de_uso_ss](https://user-images.githubusercontent.com/82836965/157964087-ee8bf36d-0938-475c-8d3e-5a5b9784f934.png)
+![Caso de Uso UML - Simple Sign](https://user-images.githubusercontent.com/82836965/157969812-5a313bd0-7d2b-4bde-9fd0-9099fbcc3f83.png)
