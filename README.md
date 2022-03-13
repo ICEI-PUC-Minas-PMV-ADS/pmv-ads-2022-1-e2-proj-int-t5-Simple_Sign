@@ -50,5 +50,6 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+Ao clicar na imagem abaixo será direcionado ao video de apresentação.
+
 <img src="https://img.youtube.com/vi/qvw8a2JrxKE/maxresdefault.jpg" width="50%"> (https://youtu.be/2h83mLD1Isk)
