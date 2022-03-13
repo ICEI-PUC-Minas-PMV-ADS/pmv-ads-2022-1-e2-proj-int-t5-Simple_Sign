@@ -52,4 +52,4 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 Ao clicar na imagem abaixo será direcionado ao video de apresentação.
 
-[<img src="https://img.youtube.com/vi/2h83mLD1Isk/solucoes.jpeg" width="50%">](https://youtu.be/2h83mLD1Isk)
+[<img src="https://img.youtube.com/vi/2h83mLD1Isk/https://75712250/158075663-c1dc5348-64b6-42be-9453-cd6cd4abea46.jpeg" width="50%">](https://youtu.be/2h83mLD1Isk)
