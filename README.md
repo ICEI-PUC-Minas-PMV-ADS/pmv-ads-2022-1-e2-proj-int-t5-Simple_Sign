@@ -52,5 +52,5 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 Ao clicar na imagem abaixo será direcionado ao video de apresentação.
 
-[<img src="https://img.youtube.com/vi/qvw8a2JrxKE/158075836-7139e971-33aa-4e59-89e9-902b2ad5d540.jpeg)" width="50%"> ](https://youtu.be/2h83mLD1Isk)
+[<img src="https://img.youtube.com/vi/qvw8a2JrxKE/158075836-7139e971-33aa-4e59-89e9-902b2ad5d540.jpeg" width="50%"> ](https://youtu.be/2h83mLD1Isk)
 
