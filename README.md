@@ -50,7 +50,6 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Apresentação
 
-Ao clicar na imagem abaixo será direcionado ao video de apresentação.
+![solucoes](https://user-images.githubusercontent.com/75712250/158076169-8cf951f3-e88c-40a3-bf01-9466eac9112e.jpeg)
 
-[<img src="https://img.youtube.com/vi/2h83mLD1Isk/solucoes.jpeg" width="50%">](https://youtu.be/2h83mLD1Isk)
 
