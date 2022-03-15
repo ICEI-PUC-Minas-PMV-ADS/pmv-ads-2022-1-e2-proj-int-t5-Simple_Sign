@@ -46,9 +46,9 @@ A equipe está organizada da seguinte maneira <br>
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub correspondendo com as seguintes listas: <br>
 
 *	Backlog: que recebe as tarefas a serem trabalhadas e todas as atividades identificadas como tarefas no decorrer do projeto também devem ser incorporadas à lista. 
-*	Para fazer: representa a Sprint atual que estamos trabalhando. 
-* Fazendo: quando uma tarefa é iniciada, ela devera ser movida para esta lista. 	
-* Teste: Quando as tarefas funcionais e não funcionais são realizadas, elas devem ser movidas para esta coluna, indicando que estão disponíveis para serem testadas.  	
+*	To Do: representa a Sprint atual que estamos trabalhando. 
+* Fazendo : quando uma tarefa é iniciada, ela devera ser movida para esta lista. 	
+* Test: Quando as tarefas funcionais e não funcionais são realizadas, elas devem ser movidas para esta coluna, indicando que estão disponíveis para serem testadas.  	
 * Feito: nesta lista são colocadas as tarefas que passaram pelos testes e estão prontas para serem entregues ao usuário. Neste caso, não há edições ou revisões a serem feitas.
 * Bloqueado: quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está impedindo a realização da tarefa.
 
