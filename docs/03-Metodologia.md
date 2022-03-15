@@ -26,7 +26,7 @@ etiquetas:
 - `feature`: uma funcionalidade que será introduzida
 
 A ferramenta de gestão de projeto e versionamento escolhida, foi o `Gihub` e o `Git`por estarem mais perto do dia a dia dos integrantes do grupo e por serem mais utilizadas no mercado. 
-As `issues` estão sendo gerenciadas pelo Scrum Master do projeto e o `Backlog`, está sendo gerenciado por PO e SM. As tarefas são distribuidas de acordo com as demandas discutidas nas reuniões de segunda com a nossa orientadora. 
+As `issues` estão sendo gerenciadas pelo Scrum Master do projeto e o `Backlog`, está sendo gerenciado por PO e SM. As tarefas são distribuidas de acordo com as demandas discutidas nas reuniões de quarta com a nossa orientadora. 
 
 ## Gerenciamento de Projeto
 
