@@ -54,4 +54,4 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 
 
-![solucoes](https://youtu.be/2h83mLD1Isk)
+![](https://youtu.be/2h83mLD1Isk)
