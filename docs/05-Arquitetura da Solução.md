@@ -22,7 +22,7 @@ https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitatio
 ![Diagrama ER-2](https://user-images.githubusercontent.com/75712250/158904925-462df3e0-204a-4101-a55c-e209a4171074.png)
 
 
-> - [Como fazer um diagrama entidade relacionamento | Lucidchart](https://www.lucidchart.com/pages/pt/como-fazer-um-diagrama-entidade-relacionamento)
+
 
 ## Esquema Relacional
 
