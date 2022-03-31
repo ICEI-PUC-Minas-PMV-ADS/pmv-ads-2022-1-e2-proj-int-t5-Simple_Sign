@@ -4,8 +4,12 @@ Cada vez mais os métodos tradicionais de assinaturas e autenticação de docume
 
 Segundo uma matéria publicada pelo jornal estadão no dia 14 de JANEIRO, 2021, Barueri, SP. (DINO – 22 ago, 2019) – As imobiliárias em São Paulo têm um fluxo grande de assinaturas de contratos de locação, e gastam  em média R$10.000,00 por mês entre custos com papelada, cartórios e armazenamento. E em média, cada contrato leva cerca de 10 dias até ser redigido, assinado pelas partes, registrado em cartório e armazenado – fisicamente, diga-se de passagem – na imobiliária. Um processo caro, trabalhoso e burocrático que pode ser reduzido; redução essa que pode variar entre 50% a 90% só com os custos cartorários.
 
+
 Então, este software irá auxiliar amplamente quem utiliza contratos digitais; processos judiciais; declaração de imposto de renda e obtenção de documentos e envios em cartórios. 
 
+Link úteis: 
+https://imoveis.estadao.com.br/noticias/assinatura-digital-permite-que-inquilino-mude-em-poucos-dias/
+https://www.conjur.com.br/2021-dez-29/mp-determina-cartorios-facam-atos-meio-eletronico
 
 ## Problema
 
@@ -35,7 +39,7 @@ O projeto de assinaturas digitais visa agilizar processos em que há a necessida
 
 ## Público-Alvo
 
-Embora este software seja para todo tipo de público, nossa proposta tem como objetivo homens e mulheres dos 20 aos 45 anos; que trabalham em ramos como: construtoras; contabilidades; escritórios de advocacia e secretarias. Tenham ensino médio ou superior completo. Que utilizam celulares e computadores no seu meio de trabalho e necessitam de assinar  grandes volumes de documentos a distância. 
+Embora este software seja para todo tipo de público, nossa proposta tem como foco homens e mulheres; que trabalham em diversos ramos como: construtoras; contabilidades; escritórios no geral e secretarias. Tenham ensino médio ou superior completo; Que utilizam celulares e computadores no seu meio de trabalho e que necessitem assinar documentos a distância e de forma ágil. 
 
 
 
