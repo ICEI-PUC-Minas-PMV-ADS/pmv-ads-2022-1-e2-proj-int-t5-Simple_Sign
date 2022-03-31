@@ -45,11 +45,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Amanda              | Visualizar os documentos já assinados                 | Para gerenciar as demanda |
 |Rodrigo             | Enviar os documentos a serem assinados para vários clientes                 | economizar tempo e dinheiro |
 |Rodrigo             | Receber alerta de documentos pendentes           | Controlar a o processo               |
-|Rodrigo             | Poder arquivar os documentos assinados                  | Economizar papéis |
+|Rodrigo             | Poder arquivar digitalmente os documentos assinados                 | Economizar papéis |
 |Patricia            | Assinar vários documentos online                | Não precisar me locomover |
-|Leticia             | Baixar os documentos assinados           | Facilitar o trabalho               |
+|Leticia             | Enviar; receber e Baixar os documentos assinados           | agiliar seu trabalho               |
 |Julia               | Postar vários documentos                 | Melhorar qualidade na demanda |
 |Julia               | Enviar os documentos através de emails                  | Facilitar o processo |
+|Amanda              | Nao precisar ir no cartório                      | ter maior tempo para finalzar tarefas |
 
 
 
