@@ -63,15 +63,15 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Deve permitir que os usuários criem e editem um perfil com dados pessoais | ALTA | 
-|RF-002| Deve possuir filtros para parametrizar a busca | MÉDIA |
-|RF-003| Deve permitir importar e enviar documentos | ALTA |
-|RF-004| Deve permitir a interação dos usuários por meio do envio, recebimento e assinatura de documentos | ALTA |
-|RF-005| Deve permitir a interação dos usuários por meio da abertura de um tíquete/chamado para alteração do documento | MÉDIA |
-|RF-006| Deve notificar os usuários cada interação de terceiros | MÉDIA |
-|RF-007| Deve permitir o cadastramento de cada documento por seu respectivo tipo | MÉDIA |
-|RF-008| Deve registrar as informações de data/hora das interações | BAIXA |
-|RF-009| Deve permitir pagar pela assinatura do serviço | ALTA |
+|RF-001| Deve permitir que os usuários gerenciem um perfil com dados pessoais | ALTA | 
+|RF-002| Deve possuir filtros para parametrizar a busca dos documentos armazenados | MÉDIA |
+|RF-003| Deve permitir fazer upload dos documentos e armazená-los em sua conta, classificando-os pelo seu respectivo tipo | ALTA |
+|RF-004| Deve permitir que os documentos armazenados sejam direcionados a outros usuários para assinatura | ALTA |
+|RF-005| Deve disparar um e-mail informando ao destinatário responsável pela assinatura sobre a alteração do status do documento | MÉDIA |
+|RF-006| Deve permitir a interação dos usuários por meio da abertura de um tíquete/chamado para alteração das informações contidas no documento, especificando onde é necessário mudar e qual a mudança | MÉDIA |
+|RF-007| Deve registrar as informações de data/hora das interações de forma automática | BAIXA |
+|RF-008| Deve permitir que o usuário administrador altere/escolha o pacote que mais se adeque ao momento | ALTA |
+|RF-009| Deve permitir que o usuário administrador altere as permissões dos demais usuários | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -81,7 +81,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| Deve ser publicado em um ambiente acessível (Repl.it, GitHub Pages, Heroku)	 | ALTA | 
-|RNF-002| Deve ser responsivo permitindo a visualização em um celular	 | ALTA |
+|RNF-002| Deve ser responsivo permitindo a visualização em qualquer dispositivo	 | ALTA |
 |RNF-003| Deve ter um design simples e autoexplicativo | MÉDIA |
 |RNF-004| Deve ser compatível com os principais navegadores do mercado | ALTA |
 |RNF-005| Deve estar acessível 24/7 | MÉDIA |
