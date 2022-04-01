@@ -63,6 +63,7 @@ Para o desenvolvimento da aplicação, serão utilizadas as seguintes plataforma
 |Repositório de código fonte|GitHub||
 |Documentos do projeto|Google Drive||
 |Projeto de Interface|Mock Flow||
+|Arquitetura de Soluções |BR Modelos Web e Lucidchart||
 |Wireframes|Figma||
 |Gerenciamento do Projeto|GitHub||
 
