@@ -19,7 +19,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 Abaixo segue o artefato “Modelo ER” com link para melhor vizulização:
 https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitationId=inv_2b1e8bda-96f8-45ac-bfe4-eb0a433de53c
 
-![Diagrama ER-2](https://user-images.githubusercontent.com/75712250/158904925-462df3e0-204a-4101-a55c-e209a4171074.png)
+![Modelo ER](https://user-images.githubusercontent.com/75712250/161176627-198684d1-144e-48b0-a2d9-a01bc1dfbaf3.png)
 
 
 
