@@ -28,9 +28,9 @@ https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitatio
 
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
-Abaixo o artefato  de “Esquema Relacional” ou através do link: https://lucid.app/lucidchart/a541c7db-fff8-459e-bb70-44dc1af17e44/edit?invitationId=inv_8883675e-8575-4e36-b2f5-3d2dcfe32c94
+Abaixo o artefato  de “Esquema Relacional”:
 
-![Blank diagram - Database ER diagram (crow's foot)](https://user-images.githubusercontent.com/75712250/158927020-88506007-55d0-4b19-8e3f-944a5dadb594.png)
+![MOdelo relacional](https://user-images.githubusercontent.com/75712250/161186623-4ab808fe-acf6-4684-a5aa-737e39a78fd4.png)
 
 
 ## Tecnologias Utilizadas
