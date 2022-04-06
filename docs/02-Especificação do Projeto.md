@@ -1,6 +1,5 @@
 # Especificações do Projeto
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
 A definição do problema e os pontos mais relevantes a serem tratados neste projeto foi sugerido necessidade do público-alvo em agilizar suas assinaturas. Os detalhes levantados nesse processo foram consolidados na forma de personas e histórias de usuários.
 
