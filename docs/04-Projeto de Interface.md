@@ -16,3 +16,4 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ## Wireframes
 
+[Suitable Pricing (3).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/files/8427649/Suitable.Pricing.3.pdf)
