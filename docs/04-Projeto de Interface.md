@@ -21,7 +21,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 1. Ao acessar o site, o usuário clica em "conhecer mais" para poder processar o pagamento.
 
-![Home-Page].docs/img/Home-Page.png
+![Home-Page](docs/img/Home-Page.png)
 
 3. Na segunda tela, tem-se as opções de pagamento com os pacotes específicos. 
 4. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para o pagamento.
