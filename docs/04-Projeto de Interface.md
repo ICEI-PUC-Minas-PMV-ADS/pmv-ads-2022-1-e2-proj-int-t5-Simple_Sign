@@ -16,21 +16,23 @@ O diagrama apresenta o estudo do fluxo de interação do usuário com o sistema 
 
 ## Wireframes
 
-![wireframe](https://user-images.githubusercontent.com/82836965/162008176-ba7bc899-4993-47df-ba3c-6b3e51c14cb1.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. 
 
-Como consta na figura acima, o site segue o seguinte fluxo:
 
 1. Ao acessar o site, o usuário clica em "conhecer mais" para poder processar o pagamento.
-2. Na segunda tela, tem-se as opções de pagamento com os pacotes específicos. 
-3. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para o pagamento.
-4. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
-5. Ao enviar os dados do seu cadastro, o usuário realiza o login.
-6. Caso esqueça a senha de acesso, é encaminhado para outra tela para preenchimento do e-mail e o sistema envia o um código. 
-7. Com o código copiado, o usuário preenche no local indicado no site.
-8. Ao realizar o login corretamente, o usuário acessa seu painel de controle, onde estão arquivados os documentos assinados e os documentos pendentes para assinar. Assim como a opção de subir um novo documento para compartilhamento.
-9. Quando o usuário clica (na tela 8) nos botões verde "assinados", amarelo "aguardando", vermelho "assinados": é encaminhado para a tela onde estão listados todos documentos assinados e pendentes.
-10. Quando o usuário clica no botão azul "novo documento", ele é encaminhado à tela onde realizará sua assinatura digital.
-11. Ao clicar em "publicar documentos" o usuário é encaminhado para que faça o upload de seu documento.
+
+
+
+3. Na segunda tela, tem-se as opções de pagamento com os pacotes específicos. 
+4. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para o pagamento.
+5. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
+6. Ao enviar os dados do seu cadastro, o usuário realiza o login.
+7. Caso esqueça a senha de acesso, é encaminhado para outra tela para preenchimento do e-mail e o sistema envia o um código. 
+8. Com o código copiado, o usuário preenche no local indicado no site.
+9. Ao realizar o login corretamente, o usuário acessa seu painel de controle, onde estão arquivados os documentos assinados e os documentos pendentes para assinar. Assim como a opção de subir um novo documento para compartilhamento.
+10. Quando o usuário clica (na tela 8) nos botões verde "assinados", amarelo "aguardando", vermelho "assinados": é encaminhado para a tela onde estão listados todos documentos assinados e pendentes.
+11. Quando o usuário clica no botão azul "novo documento", ele é encaminhado à tela onde realizará sua assinatura digital.
+12. Ao clicar em "publicar documentos" o usuário é encaminhado para que faça o upload de seu documento.
 
 Abaixo o Protótipo Interativo em PDF:
 
