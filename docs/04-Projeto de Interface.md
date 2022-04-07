@@ -36,4 +36,4 @@ Abaixo o Protótipo Interativo em PDF:
 
 [WireFrame_interativo.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/files/8427663/WireFrame_interativo.pdf)
 
-(nao finalizado)
+
