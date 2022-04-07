@@ -30,7 +30,8 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 3. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para a tela de pagamento.
 
 ![pagamento](img/pagamento.png)
-6. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
+
+4. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
 7. Ao enviar os dados do seu cadastro, o usuário realiza o login.
 8. Caso esqueça a senha de acesso, é encaminhado para outra tela para preenchimento do e-mail e o sistema envia o um código. 
 9. Com o código copiado, o usuário preenche no local indicado no site.
