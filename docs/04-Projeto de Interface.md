@@ -23,7 +23,10 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ![Home-Page](img/Home-Page.png)
 
-3. Na segunda tela, tem-se as opções de pagamento com os pacotes específicos. 
+2. Na segunda tela, tem-se as opções de pagamento com os pacotes específicos. 
+
+![assinaturas](img/Home-assinaturas.png)
+
 4. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para o pagamento.
 5. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
 6. Ao enviar os dados do seu cadastro, o usuário realiza o login.
