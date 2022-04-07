@@ -27,7 +27,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 ![assinaturas](img/assinaturas.png)
 
-3. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para o pagamento.
+3. Ao clicar em qualquer um dos pacotes disponíveis, o usuário é direcionado para a tela de pagamento.
 
 ![pagamento](img/pagamento.png)
 6. Após realizar o pagamento, o usuário é encaminhado para uma tela de cadastro.
