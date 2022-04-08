@@ -46,7 +46,12 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 7. Com o código copiado, o usuário preenche no local indicado no site.
 
 ![codigo](img/codigo.png)
-12. Ao realizar o login corretamente, o usuário acessa seu painel de controle, onde estão arquivados os documentos assinados e os documentos pendentes para assinar. Assim como a opção de subir um novo documento para compartilhamento.
+
+8. Ao realizar o login corretamente, o usuário acessa seu painel de controle, onde estão arquivados os documentos assinados e os documentos pendentes para assinar.
+
+![painelControle](img/painelControle.png)
+
+10.  Assim como a opção de subir um novo documento para compartilhamento.
 13. Quando o usuário clica (na tela 8) nos botões verde "assinados", amarelo "aguardando", vermelho "assinados": é encaminhado para a tela onde estão listados todos documentos assinados e pendentes.
 14. Quando o usuário clica no botão azul "novo documento", ele é encaminhado à tela onde realizará sua assinatura digital.
 15. Ao clicar em "publicar documentos" o usuário é encaminhado para que faça o upload de seu documento.
