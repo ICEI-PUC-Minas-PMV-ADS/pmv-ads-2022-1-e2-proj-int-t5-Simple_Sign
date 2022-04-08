@@ -57,6 +57,8 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 16. Ao clicar em "publicar documentos" o usuário é encaminhado para que faça o upload de seu documento.
 
+![gerenciador](img/gerenciador.png)
+
 Abaixo o Protótipo Interativo em PDF:
 
 [WireFrame_interativo.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/files/8427663/WireFrame_interativo.pdf)
