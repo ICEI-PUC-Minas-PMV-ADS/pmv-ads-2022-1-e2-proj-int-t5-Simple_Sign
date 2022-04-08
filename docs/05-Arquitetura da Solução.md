@@ -3,7 +3,7 @@
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
-Abaixo segue o artefato "Diagrama de classes" com o <a href="https://lucid.app/lucidchart/1bba0da7-32fe-40fd-8dbf-2c14d4b8db6a/edit?page=0_0&invitationId=inv_65939ec6-47e0-4ec0-bbb8-82891f6fd860#">link</a>:
+Abaixo segue o artefato "Diagrama de classes" com o <a href="https://lucid.app/lucidchart/1bba0da7-32fe-40fd-8dbf-2c14d4b8db6a/edit?page=0_0&invitationId=inv_65939ec6-47e0-4ec0-bbb8-82891f6fd860#">link</a> para melhor visualização:
 ![Diagrama de classes1](https://user-images.githubusercontent.com/90878497/162346872-2ed7579c-a2d9-4911-b568-5435ba65a464.jpg)
 
 
