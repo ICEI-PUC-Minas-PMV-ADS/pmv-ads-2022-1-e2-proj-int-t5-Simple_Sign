@@ -3,6 +3,10 @@
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
+Abaixo segue o artefato "Diagrama de classes":
+![Diagrama de classes1](https://user-images.githubusercontent.com/90878497/162346872-2ed7579c-a2d9-4911-b568-5435ba65a464.jpg)
+
+
 ## Modelo ER
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
