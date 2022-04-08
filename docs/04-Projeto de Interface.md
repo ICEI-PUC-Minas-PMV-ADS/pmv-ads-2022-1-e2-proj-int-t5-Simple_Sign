@@ -41,7 +41,7 @@ Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do si
 
 6. Caso esqueça a senha de acesso, é encaminhado para outra tela para preenchimento do e-mail e o sistema envia o um código. 
 
-![confirmeEmail](img/confirmeEmail.png)
+![confirmeEmail](img/cofirmeEmail.png)
 
 11. Com o código copiado, o usuário preenche no local indicado no site.
 12. Ao realizar o login corretamente, o usuário acessa seu painel de controle, onde estão arquivados os documentos assinados e os documentos pendentes para assinar. Assim como a opção de subir um novo documento para compartilhamento.
