@@ -11,8 +11,8 @@ Abaixo segue o artefato "Diagrama de classes" com o <a href="https://lucid.app/l
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-Abaixo segue o artefato “Modelo ER” com link para melhor vizulização:
-https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitationId=inv_2b1e8bda-96f8-45ac-bfe4-eb0a433de53c
+Abaixo segue o artefato “Modelo ER” com <a href="https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitationId=inv_2b1e8bda-96f8-45ac-bfe4-eb0a433de53c">link</a> para melhor vizulização:
+
 
 
 ![Modelo ER](https://user-images.githubusercontent.com/75712250/161876648-ca61be4c-1623-4435-a109-91040231f114.png)
