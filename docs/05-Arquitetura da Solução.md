@@ -27,7 +27,7 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 Abaixo o artefato  de “Esquema Relacional”:
 
 
-![MOdelo relacional]
+
 ![MOdelo relacional](https://user-images.githubusercontent.com/75712250/162589524-5b5a7cb8-970d-475f-80c3-f87bb2d7e563.png)
 
 
