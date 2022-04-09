@@ -15,7 +15,7 @@ Abaixo segue o artefato “Modelo ER” :
 
 
 
-![Modelo ER]![Modelo ER](https://user-images.githubusercontent.com/75712250/162589066-1bbaec46-c618-4541-8f95-0656c86a44a8.png)
+![Modelo ER](https://user-images.githubusercontent.com/75712250/162589066-1bbaec46-c618-4541-8f95-0656c86a44a8.png)
 
 
 
