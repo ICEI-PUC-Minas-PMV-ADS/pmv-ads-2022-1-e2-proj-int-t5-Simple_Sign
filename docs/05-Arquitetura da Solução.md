@@ -15,7 +15,8 @@ Abaixo segue o artefato “Modelo ER” com <a href="https://lucid.app/lucidchar
 
 
 
-![Modelo ER](https://user-images.githubusercontent.com/75712250/161876648-ca61be4c-1623-4435-a109-91040231f114.png)
+![Modelo ER]![Modelo ER](https://user-images.githubusercontent.com/75712250/162589066-1bbaec46-c618-4541-8f95-0656c86a44a8.png)
+
 
 
 
