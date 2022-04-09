@@ -110,12 +110,20 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Requisitos associados | RF-08 - Deve permitir que o usuário administrador altere/escolha o pacote que mais se adeque ao momento |
 | Objetivo do teste     | Verificar se o plano escolhido condiz com a quantidade de assinaturas do cliente |
 | Passos                | Acessar o navegador; Informar endereço do site; Clicar em novo usuário; Preencher com os dados pessoais; Clicar em cadastrar; Digitar e-mail novamente; Enviar e-mail para confirmação; Abrir e-mail em outra aba do navegador; Clicar no e-mail de confirmação recebido; Coletar código recebido; Retornar ao site; Digitar código recebido; Escolher plano de assinatura; Verificar quantidade de assinaturas no perfil |
-| Critérios de êxito    | Após escolher o plano de assinaturas, verificar se a quantidade escolhida condiz com a quantidade disponível |
+| Critérios de êxito    | Após escolher o plano de assinaturas, a quantidade escolhida deve condizer com a quantidade disponível |
 
 | Caso de Teste | CT-10 - Alterar pacote de assinaturas |
 |-----------------------|----------------------------------------------------------------------|
 | Requisitos associados | RF-08 - Deve permitir que o usuário administrador altere/escolha o pacote que mais se adeque ao momento |
 | Objetivo do teste     | Verificar se a alteração feita no plano de assinaturas condiz com a quantidade de assinaturas do cliente |
 | Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Clicar em alterar plano; Escolher novo plano de assinaturas; Salvar alterações |
-| Critérios de êxito    | Após escolher o novo plano de assinaturas, verificar se a quantidade escolhida condiz com a quantidade disponível |
+| Critérios de êxito    | Após escolher o novo plano de assinaturas, a quantidade escolhida deve condizer com a quantidade disponível |
+
+| Caso de Teste | CT-11 - Alterar pacote de assinaturas |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | RF-09 - Deve permitir que o usuário administrador altere as permissões dos demais usuários |
+| Objetivo do teste     | Verificar se as alterações feitas pelo usuário administrador no usuário comum foram realizadas |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Clicar em alterar perfil de usuário; Selecionar as funcionalidades desejadas; Salvar alterações |
+| Critérios de êxito    | Após alterar as funcionalidades do usuário comum, o usuário deverá agir conforme suas permissões |
+
 
