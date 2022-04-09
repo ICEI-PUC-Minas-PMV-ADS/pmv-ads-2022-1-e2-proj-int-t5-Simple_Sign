@@ -54,11 +54,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |-----------------------|----------------------------------------------------------------------|
 | Objetivo do teste     | Verificar se é possível criar e /ou editar um perfil de usuário |
 |-----------------------|----------------------------------------------------------------------|
-| Passos                | 1) Acessar o navegador
-2) Informar endereço do site
-3) Clicar em login 
-4) Clicar em editar perfil
-5) Salvar alterações |
+| Passos                | 1) Acessar o navegador 2) Informar endereço do site 3) Clicar em login 4) Clicar em editar perfil 5) Salvar alterações |
 
 
 
