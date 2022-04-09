@@ -52,10 +52,8 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Caso de Teste | CT-01 - Gerenciar perfil |
 |-----------------------|----------------------------------------------------------------------|
 | Requisitos associados | Deve permitir que os usuários gerenciem um perfil com dados pessoais |
-|-----------------------|----------------------------------------------------------------------|
 | Objetivo do teste     | Verificar se é possível criar e /ou editar um perfil de usuário |
-|-----------------------|----------------------------------------------------------------------|
-| Passos                | 1) Acessar o navegador 2) Informar endereço do site 3) Clicar em login 4) Clicar em editar perfil 5) Salvar alterações |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em novo usuário; Preencher com os dados pessoais; Clicar em cadastrar; Digitar e-mail novamente; Enviar e-mail para confirmação; Abrir e-mail em outra aba do navegador; Clicar no e-mail de confirmação recebido; Coletar código recebido; Retornar ao site; Digitar código recebido; Escolher plano de assinatura; Fazer upload da assinatura ou Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Salvar alterações |
 
 
 
