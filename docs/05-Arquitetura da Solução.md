@@ -61,7 +61,29 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Requisitos associados | RF-01 - Deve permitir que os usuários gerenciem um perfil com dados pessoais |
 | Objetivo do teste     | Verificar se é possível editar um perfil de usuário |
 | Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Salvar alterações |
-| Critérios de êxito    |Após salvar as alterações, o site retornará à página do perfil com os dados atualizados |
+| Critérios de êxito    | Após salvar as alterações, o site retornará à página do perfil com os dados atualizados |
+
+| Caso de Teste | CT-03 - Filtrar documentos |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | RF-02 - Deve possuir filtros para parametrizar a busca dos documentos armazenados |
+| Objetivo do teste     | Verificar se é possível realizar um filtro por nome ou tipo de documento |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Digitar nome do usuário e senha; Clicar em domentos assinados; Preencher os dados da busca |
+| Critérios de êxito    | O site deve carregar automaticamente os documentos que contenham as palavras pesquisadas |
+
+| Caso de Teste | CT-04 - Categorizar documentos |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | RF-03 - Deve permitir fazer upload dos documentos e armazená-los em sua conta, classificando-os pelo seu respectivo tipo |
+| Objetivo do teste     | Verificar se é possível salvar um documento categorizando-o por tipo |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Digitar nome do usuário e senha; Clicar em novo documento; Clicar em publicar documentos; Clicar em selecionar um arquivo; Selecionar o tipo de documento |
+| Critérios de êxito    | Após o cadastro do documento, deve-se visualizar as informações do mesmo, inclusive sua categoria |
+
+| Caso de Teste | CT-05 - Enviar para assinatura |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | RF-04 - Deve permitir que os documentos armazenados sejam direcionados a outros usuários para assinatura |
+| Objetivo do teste     | Verificar se o documento foi direcionado para outro usuário assinar |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Digitar nome do usuário e senha; Clicar em meus documentos; Selecionar documento para envio; Informar o usuário que receberá o documento; Clicar em enviar |
+| Critérios de êxito    | Após enviar o documento, verificar se o outro usuário o recebeu corretamente |
+
 
 
 > **Links Úteis**:
