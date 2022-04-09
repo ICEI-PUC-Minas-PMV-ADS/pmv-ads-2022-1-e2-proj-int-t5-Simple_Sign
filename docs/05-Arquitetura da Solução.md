@@ -51,10 +51,17 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 
 | Caso de Teste | CT-01 - Criar novo perfil de usuário |
 |-----------------------|----------------------------------------------------------------------|
-| Requisitos associados | Deve permitir que os usuários gerenciem um perfil com dados pessoais |
-| Objetivo do teste     | Verificar se é possível criar e /ou editar um perfil de usuário |
+| Requisitos associados | RF-01 - Deve permitir que os usuários gerenciem um perfil com dados pessoais |
+| Objetivo do teste     | Verificar se é possível criar um perfil de usuário |
 | Passos                | Acessar o navegador; Informar endereço do site; Clicar em novo usuário; Preencher com os dados pessoais; Clicar em cadastrar; Digitar e-mail novamente; Enviar e-mail para confirmação; Abrir e-mail em outra aba do navegador; Clicar no e-mail de confirmação recebido; Coletar código recebido; Retornar ao site; Digitar código recebido; Escolher plano de assinatura; Fazer upload da assinatura ou Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Salvar alterações |
-| Critérios de êxito    | * Após o cadastro de novo usuário, o site será direcionado para a página do perfil * Aparecerá um menu com as opções de gestão dos documentos |
+| Critérios de êxito    |Após o cadastro de novo usuário, o site será direcionado para a página do perfil; Aparecerá um menu com as opções de gestão dos documentos|
+
+| Caso de Teste | CT-02 - Editar perfil de usuário |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | RF-01 - Deve permitir que os usuários gerenciem um perfil com dados pessoais |
+| Objetivo do teste     | Verificar se é possível editar um perfil de usuário |
+| Passos                | Acessar o navegador; Informar endereço do site; Clicar em login; Clicar em editar perfil; Salvar alterações |
+| Critérios de êxito    |Após salvar as alterações, o site retornará à página do perfil com os dados atualizados |
 
 
 > **Links Úteis**:
