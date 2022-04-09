@@ -40,6 +40,28 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
+## Plano de Testes de Software
+
+Os requisitos para realização dos testes de software são:
+* Site publicado na Internet
+* Navegador da Internet - Chrome, Firefox ou Edge
+* Conectividade de Internet para acesso às plataformas (APISs)
+Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
+
+| Caso de Teste | CT-01 - Gerenciar perfil |
+|-----------------------|----------------------------------------------------------------------|
+| Requisitos associados | Deve permitir que os usuários gerenciem um perfil com dados pessoais |
+|-----------------------|----------------------------------------------------------------------|
+| Objetivo do teste     | Verificar se é possível criar e /ou editar um perfil de usuário |
+|-----------------------|----------------------------------------------------------------------|
+| Passos                | 1) Acessar o navegador
+2) Informar endereço do site
+3) Clicar em login 
+4) Clicar em editar perfil
+5) Salvar alterações |
+
+
+
 > **Links Úteis**:
 >
 > - [Website com GitHub Pages](https://pages.github.com/)
