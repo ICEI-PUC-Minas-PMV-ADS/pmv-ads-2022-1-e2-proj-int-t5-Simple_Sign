@@ -11,7 +11,7 @@ Abaixo segue o artefato "Diagrama de classes" com o <a href="https://lucid.app/l
 
 O Modelo ER representa através de um diagrama como as entidades (coisas, objetos) se relacionam entre si na aplicação interativa.]
 
-Abaixo segue o artefato “Modelo ER” com <a href="https://lucid.app/lucidchart/417c7fae-6427-4333-82f4-cd6edc6bc3a9/edit?invitationId=inv_2b1e8bda-96f8-45ac-bfe4-eb0a433de53c">link</a> para melhor vizulização:
+Abaixo segue o artefato “Modelo ER” :
 
 
 
@@ -27,7 +27,8 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
 Abaixo o artefato  de “Esquema Relacional”:
 
 
-![MOdelo relacional](https://user-images.githubusercontent.com/75712250/161876659-cd8ffa35-a24c-46fa-ab3a-985c2c33b66d.png)
+![MOdelo relacional]
+![MOdelo relacional](https://user-images.githubusercontent.com/75712250/162589524-5b5a7cb8-970d-475f-80c3-f87bb2d7e563.png)
 
 
 ## Tecnologias Utilizadas
