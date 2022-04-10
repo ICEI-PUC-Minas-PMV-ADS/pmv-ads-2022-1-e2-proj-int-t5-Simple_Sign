@@ -14,8 +14,7 @@ O Modelo ER representa através de um diagrama como as entidades (coisas, objeto
 Abaixo segue o artefato “Modelo ER” :
 
 
-
-![Modelo ER](https://user-images.githubusercontent.com/75712250/162589066-1bbaec46-c618-4541-8f95-0656c86a44a8.png)
+![Modelo ER](https://user-images.githubusercontent.com/75712250/162596790-5532bb8c-af19-4c08-ba37-3d198e865315.png)
 
 
 
@@ -26,9 +25,8 @@ O Esquema Relacional corresponde à representação dos dados em tabelas juntame
  
 Abaixo o artefato  de “Esquema Relacional”:
 
+![Modelo ER](https://user-images.githubusercontent.com/75712250/162589066-1bbaec46-c618-4541-8f95-0656c86a44a8.png)
 
-
-![MOdelo relacional](https://user-images.githubusercontent.com/75712250/162589524-5b5a7cb8-970d-475f-80c3-f87bb2d7e563.png)
 
 
 ## Tecnologias Utilizadas
