@@ -1,0 +1,71 @@
+/*corpo da páginm*/
+body {
+    background-color: #e9ecf3;
+}
+
+/*cabeçalho*/
+img.logo {
+    width: 90px;
+}
+
+.hello {
+    font-size: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    margin-top: 20px;
+}
+
+.usuario {
+    border-radius: 155px;
+    width: 60px;
+    height: 60px;
+    padding: 5px;
+    margin: 10px;
+}
+
+/*dashboard geral*/
+.quadro {
+    background-color: #00CED1;
+    color: #FFF;
+    text-align: center;
+    padding: 50px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.dashboard {
+    font-size: 12px;
+    align-items: center;
+    display: inline-flex;
+    margin-top: 30px;
+    background-color: #40E0D0;
+    box-shadow:3px 3px 6px #008080;
+    border-radius: 8px;
+}
+
+.elementos {
+    font-size: 16px;
+    padding: 18px 0px 0px 15px ;
+    align-items: center;
+    text-align: left;
+    font-weight: bold;
+}
+
+.valores {
+    font-size: 16px;
+    align-items: center;
+    text-align: right;
+    float: right;
+    padding: 18px 15px 0px 0px ;
+    font-weight: bold;
+}
+
+.quantidade {
+    font-size: 80px;
+    font-style: italic;
+}
+
+/*elementos comuns*/
+.buttons, .dashboard {
+    padding: 10px;
+    text-align: center;    
+}
