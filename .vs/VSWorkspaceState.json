@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\SimpleSignProject"
   ],
-  "SelectedNode": "\\C:\\Users\\Atos\\source\\Repos\\KaiqueRoc\\Projeto",
+  "SelectedNode": "\\src\\SimpleSignProject",
   "PreviewInSolutionExplorer": false
 }

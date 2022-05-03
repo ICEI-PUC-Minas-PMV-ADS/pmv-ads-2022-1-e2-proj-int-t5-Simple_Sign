@@ -40,9 +40,9 @@
 
   <div class="form-group">
     <label for="nome"> Senha</label>
-    <input type="password" asp-for="Login" class="form-control"  placeholder="Digite a senha do Usuario">
+    <input type="text" asp-for="Senha" class="form-control"  placeholder="Digite a senha do Usuario">
     @Html.ValidationMessageFor(x => x.Senha)
-
+    </div>
   <br />
   <button type="submit" class="btn btn-primary">Adicionar</button>
 
