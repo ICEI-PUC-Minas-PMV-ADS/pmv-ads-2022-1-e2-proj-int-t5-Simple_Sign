@@ -1,4 +1,6 @@
-/*corpo da páginm*/
+/*MY SIGN
+
+corpo da página*/
 body {
     background-color: #e9ecf3;
 }
@@ -64,8 +66,26 @@ img.logo {
     font-style: italic;
 }
 
+/*botões*/
+#legenda a {
+    color: #FFF;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
 /*elementos comuns*/
 .buttons, .dashboard {
     padding: 10px;
     text-align: center;    
 }
+
+/*
+DOCSIGN
+
+lista de documentos*/
+#signed ul a {
+    color: gray;    
+}
+

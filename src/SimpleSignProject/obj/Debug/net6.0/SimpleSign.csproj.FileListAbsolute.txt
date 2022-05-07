@@ -127,3 +127,14 @@ C:\Users\Atos\Desktop\SimpleSign\bin\Debug\net6.0\System.Web.WebPages.Deployment
 C:\Users\Atos\Desktop\SimpleSign\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
 C:\Users\Atos\Desktop\SimpleSign\bin\Debug\net6.0\System.Web.WebPages.dll
 C:\Users\Atos\Desktop\SimpleSign\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.csproj.AssemblyReference.cache
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.AssemblyInfoInputs.cache
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.AssemblyInfo.cs
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.csproj.CoreCompileInputs.cache
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.RazorAssemblyInfo.cache
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.RazorAssemblyInfo.cs
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.dll
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\ref\SimpleSign.dll
+C:\Users\breno\Documents\Dev\Cursos\Análise e Desenvolvimento de Sistemas\Eixo 2\Projeto - aplicação interativa\workplace\src\SimpleSignProject\obj\Debug\net6.0\SimpleSign.pdb
