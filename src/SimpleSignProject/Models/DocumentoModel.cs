@@ -17,7 +17,7 @@ namespace SimpleSign.Models
 
         [Display(Name = "Descrição")]
         [Required(ErrorMessage = "Obrigatório informar a descrição!")]
-        public string Descrição { get; set; }
+        public string Descricao { get; set; }
         public DateTime DataEnvio { get; set; }
         public DateTime DataCadastro { get; set; }
         public DateTime DataAssinatura { get; set; }
@@ -35,26 +35,17 @@ namespace SimpleSign.Models
             Servico
         }
 
-        public DocumentoModel()
-        {
-        }
-
-        public DocumentoModel(int id, string nome, string tipo, string descrição)
+        public DocumentoModel(int id, string nome, string tipo, string descricao)
         {
             Id = id;
             Nome = nome;
             Tipo = tipo;
-            Descrição = descrição;
+            Descricao = descricao;
         }
 
         public void AddAssinatura(AssinaturaModel assinatura)
         {
             Assinaturas.Add(assinatura);
-        }
-        
-        public void EnviarDocumento(DocumentoModel documento)
-        {
-            //verificar
         }
 
         public void AddUsuario(UsuarioModel usuario)

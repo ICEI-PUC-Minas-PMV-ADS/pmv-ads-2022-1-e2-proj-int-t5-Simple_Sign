@@ -1,4 +1,6 @@
-﻿namespace SimpleSign.Models
+﻿using SimpleSign.Repositorio;
+
+namespace SimpleSign.Models
 {
     public class AssinaturaModel
     {
