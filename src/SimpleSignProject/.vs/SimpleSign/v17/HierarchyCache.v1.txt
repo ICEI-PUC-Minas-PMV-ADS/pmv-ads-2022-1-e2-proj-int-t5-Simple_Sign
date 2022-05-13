@@ -1,0 +1,324 @@
+﻿++Solução 'SimpleSign' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:SimpleSign.sln
+++SimpleSign
+i:{00000000-0000-0000-0000-000000000000}:SimpleSign
+++Connected Services 
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1057
+++Dependências
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1056
+++Analisadores
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:analisadores
+++Microsoft.AspNetCore.Analyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Estruturas
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:estruturas
+++Pacotes
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:pacotes
+++Microsoft.AspNet.Mvc (5.2.8)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1072
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1069
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1071
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1070
+++Microsoft.EntityFrameworkCore.Tools (6.0.4)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1073
+++Properties
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\
+++wwwroot
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\
+++css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\css\
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\js\
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\
+++bootstrap
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\
+++dist
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\dist\
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\dist\
+++bootstrap.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap.rtl.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap.rtl.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-grid.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-grid.rtl.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-grid.rtl.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-reboot.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-reboot.rtl.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-reboot.rtl.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap-utilities.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap-utilities.rtl.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap-utilities.rtl.min.css.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++bootstrap.bundle.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.bundle.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.bundle.min.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.esm.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.esm.min.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bootstrap.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++bootstrap.min.js.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++LICENSE
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\bootstrap\license
+++jquery
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\
+++LICENSE.txt
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\license.txt
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++jquery-validation
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\
+++LICENSE.md
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\license.md
+++jquery-validation-unobtrusive
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\favicon.ico
+++Controllers
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\
+++Data
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\data\
+++BancoContext.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\data\bancocontext.cs
+++Enums
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\enums\
+++PerfilEnum.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\enums\perfilenum.cs
+++Migrations
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\
+++Models
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\
+++AssinaturaModel.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\assinaturamodel.cs
+++ContatoModel.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\contatomodel.cs
+++DocumentoModel.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\documentomodel.cs
+++ErrorViewModel.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\errorviewmodel.cs
+++UsuarioModel.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\models\usuariomodel.cs
+++Repositorio
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\
+++Views
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\
+++Contato
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\contato\
+++Home
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\home\
+++Shared
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\shared\
+++Usuario
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\usuario\
+++_ViewImports.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\_viewstart.cshtml
+++appsettings.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\appsettings.json
+++Program.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\program.cs
+++Banco de Dados do SQL Server (ConnectionStrings:DataBase)
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1086
+++Microsoft.AspNetCore.App
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\microsoft.netcore.app
+++PublishProfiles
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\publishprofiles\
+++ServiceDependencies
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies\
+++launchSettings.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\launchsettings.json
+++serviceDependencies.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies.json
+++site.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\css\site.css
+++site.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\js\site.js
+++jquery.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++AssinaturaController.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\assinaturacontroller.cs
+++ContatoController.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\contatocontroller.cs
+++DocumentoController.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\documentocontroller.cs
+++HomeController.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\homecontroller.cs
+++UsuarioController.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\controllers\usuariocontroller.cs
+++20220427015343_CriandoTabelaContatos.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220427015343_criandotabelacontatos.cs
+++20220502024811_CriacaoTabelaUsuario.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220502024811_criacaotabelausuario.cs
+++BancoContextModelSnapshot.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\bancocontextmodelsnapshot.cs
+++AssinaturaRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\assinaturarepositorio.cs
+++ContatoRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\contatorepositorio.cs
+++DocumentoRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\documentorepositorio.cs
+++IAssinaturaRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\iassinaturarepositorio.cs
+++IContatoRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\icontatorepositorio.cs
+++IDocumentoRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\idocumentorepositorio.cs
+++IUsuarioRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\iusuariorepositorio.cs
+++UsuarioRepositorio.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\repositorio\usuariorepositorio.cs
+++ApagarConfirmacao.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\contato\apagarconfirmacao.cshtml
+++Criar.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\contato\criar.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\usuario\criar.cshtml
+++Editar.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\contato\editar.cshtml
+++Index.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\contato\index.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\home\index.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\usuario\index.cshtml
+++Privacy.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\shared\error.cshtml
+++appsettings.Development.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\appsettings.development.json
+++A dependência mssql1 está ausente e precisa ser configurada para o perfil atual.
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:>1087
+++SimpleSignProject - Zip Deploy.pubxml
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\publishprofiles\simplesignproject - zip deploy.pubxml
+++SimpleSignProject - Zip Deploy
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies\simplesignproject - zip deploy\
+++serviceDependencies.SimpleSignProject - Zip Deploy.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies.simplesignproject - zip deploy.json
+++jquery.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++jquery.validate.unobtrusive.min.js
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++20220427015343_CriandoTabelaContatos.Designer.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220427015343_criandotabelacontatos.designer.cs
+++20220502024811_CriacaoTabelaUsuario.Designer.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220502024811_criacaotabelausuario.designer.cs
+++_Layout.cshtml.css
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\views\shared\_layout.cshtml.css
+++mssql1.arm.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies\simplesignproject - zip deploy\mssql1.arm.json
+++profile.arm.json
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\properties\servicedependencies\simplesignproject - zip deploy\profile.arm.json
+++jquery.min.map
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\wwwroot\lib\jquery\dist\jquery.min.map
+++20220512220055_M03.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220512220055_m03.cs
+++20220512220055_M03.Designer.cs
+i:{21a17606-f31a-4444-8621-0816fdebfe4d}:c:\users\breno\documents\dev\cursos\análise e desenvolvimento de sistemas\eixo 2\projeto - aplicação interativa\workplace\src\simplesignproject\migrations\20220512220055_m03.designer.cs

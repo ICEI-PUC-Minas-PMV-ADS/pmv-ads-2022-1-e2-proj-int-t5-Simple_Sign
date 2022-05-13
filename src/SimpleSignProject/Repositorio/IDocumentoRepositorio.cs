@@ -8,7 +8,8 @@ namespace SimpleSign.Repositorio
         DocumentoModel ListarPorId(int id);
 
         DocumentoModel Adicionar(DocumentoModel documento);
-        DocumentoModel Atualizar(DocumentoModel documento);
+        DocumentoModel Assinar(DocumentoModel documento);
+        DocumentoModel Validade(DocumentoModel validade);
         bool Apagar(int id);
     }
 }

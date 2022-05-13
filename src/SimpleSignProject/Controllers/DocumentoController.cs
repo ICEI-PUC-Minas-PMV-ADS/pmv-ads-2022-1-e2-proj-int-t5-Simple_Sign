@@ -8,14 +8,10 @@ namespace SimpleSign.Controllers
     public class DocumentoController : Controller
     {
         private readonly IDocumentoRepositorio _documentoRepositorio;
-        private readonly BancoContext _bancoContext;
-        public DocumentoController(BancoContext bancoContext)
-        {
-            _bancoContext = bancoContext;
-        }
+        
         public DocumentoController(IDocumentoRepositorio documentoRepositorio)
         {
-            _documentoRepositorio = (IDocumentoRepositorio)documentoRepositorio;
+            _documentoRepositorio = documentoRepositorio;
         }
         public IActionResult Index()
         {
@@ -27,20 +23,6 @@ namespace SimpleSign.Controllers
         public IActionResult Criar()
         {
             return View();
-        }
-
-        public IActionResult Editar(int id)
-
-        {
-            DocumentoModel documento = _documentoRepositorio.ListarPorId(id);
-            return View(documento);
-        }
-
-        public IActionResult ApagarConfirmacao(int id)
-        {
-            DocumentoModel documento = _documentoRepositorio.ListarPorId(id);
-
-            return View(documento);
         }
 
         [HttpPost]
@@ -62,6 +44,20 @@ namespace SimpleSign.Controllers
                 TempData["MensagemErro"] = $"Não foi possível importar seu documento, tente novamente. Detalhe do erro: {erro.Message}";
                 return RedirectToAction("Index");
             }
+        }
+
+        public IActionResult Editar(int id)
+
+        {
+            DocumentoModel documento = _documentoRepositorio.ListarPorId(id);
+            return View(documento);
+        }
+
+        public IActionResult ApagarConfirmacao(int id)
+        {
+            DocumentoModel documento = _documentoRepositorio.ListarPorId(id);
+
+            return View(documento);
         }
         
         [HttpPost]
