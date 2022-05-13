@@ -4,9 +4,9 @@
 
 Nesta sessão serão apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações serão apresentadas na sequência.
 
-## Página de Login (RF-01)
+### Página de Login (RF-01)
 
 A tela de login apresenta os campos necessários para validar o acesso do usuário à sua conta previamente criada. Os dados serão salvos em banco de dados criado no SQLServer. Um exemplo da tela é apresentado na imagem abaixo:
 
-### Requisitos atenditos
-<p style="font-weight: bold">Requisitos atendidos</b>
+#### Requisitos atenditos
+* RF-1 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
