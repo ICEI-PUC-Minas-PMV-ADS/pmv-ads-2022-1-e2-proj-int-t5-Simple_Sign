@@ -24,7 +24,7 @@ namespace SimpleSign.Repositorio
             DocumentoDb.Tipo = documento.Tipo;
             DocumentoDb.Descricao = documento.Descricao;
             DocumentoDb.DataEnvio = documento.DataEnvio;
-            documento.DataCadastro = DateTime.Now;
+            DocumentoDb.DataCadastro = DateTime.Now;
 
             _bancoContext.Documentos.Add(documento);
             _bancoContext.SaveChanges();

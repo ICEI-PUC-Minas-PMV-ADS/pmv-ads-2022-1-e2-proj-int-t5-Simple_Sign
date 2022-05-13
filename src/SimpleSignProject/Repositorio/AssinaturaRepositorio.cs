@@ -15,6 +15,14 @@ namespace SimpleSign.Repositorio
 
         public AssinaturaModel Adicionar(AssinaturaModel assinatura)
         {
+            AssinaturaModel AssinaturaDb = ListarPorId(assinatura.Id);
+            if (AssinaturaDb == null)
+            {
+                throw new System.Exception("Houve um erro no upload do documento");
+            }
+            AssinaturaDb.Usuario = assinatura.Usuario;
+            AssinaturaDb.DataCadastro = DateTime.Now;            
+
             _bancoContext.Assinaturas.Add(assinatura);
             _bancoContext.SaveChanges();
             return assinatura;
@@ -40,9 +48,9 @@ namespace SimpleSign.Repositorio
             {
                 throw new System.Exception("Houve um erro no upload do documento");
             }
-            AssinaturaDb.Id = assinatura.Id;
             AssinaturaDb.Usuario = assinatura.Usuario;
-            
+            AssinaturaDb.DataAtualizacao = DateTime.Now;
+
             _bancoContext.Assinaturas.Update(AssinaturaDb);
             _bancoContext.SaveChanges();
             return AssinaturaDb;
