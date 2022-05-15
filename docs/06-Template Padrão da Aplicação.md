@@ -31,12 +31,14 @@ Permite que o usuário faça o pagamento de acordo com o plano escolhido.
 ## Cadastro de usuário
 É a tela onde o usuário realiza o cadastro as suas informações pessoais, incluindo a própria assinatura pessoal ou corporativa.
 
-![cadastro](img/cadastro.png)
+![Cadastro](https://user-images.githubusercontent.com/75712250/168480379-781611c8-f4b2-4611-938e-01d3019be1fa.png)
+
 
 ## Tela de login
 É onde o usuário fará o acesso ao sistema através das credenciais cadastradas anteriormente.
 
-![login](img/login.png)
+![Login](https://user-images.githubusercontent.com/75712250/168480398-eab98ca1-e7f5-473a-b6a8-2a6bd55a196f.png)
+
 
 ## Confirmação de e-mail
 Tela utilizada para gerar um e-mail de confirmação ao usuário, que o receberá automaticamente.
