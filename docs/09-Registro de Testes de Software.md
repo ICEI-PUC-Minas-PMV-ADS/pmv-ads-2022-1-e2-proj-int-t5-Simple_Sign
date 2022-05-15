@@ -8,5 +8,5 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 Ao digitar o endereço da página web constatamos que a janela de login é apresentada ao usuário e nela é possível inserir as seguintes informações: CPF e senha.
 
-![login](img/AmandaPinheiro.png)
+![login](img/login.png)
 
