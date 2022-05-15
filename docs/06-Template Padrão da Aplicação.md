@@ -37,7 +37,8 @@ Permite que o usuário faça o pagamento de acordo com o plano escolhido.
 ## Tela de login
 É onde o usuário fará o acesso ao sistema através das credenciais cadastradas anteriormente.
 
-![Login](https://user-images.githubusercontent.com/75712250/168480398-eab98ca1-e7f5-473a-b6a8-2a6bd55a196f.png)
+![Login](https://user-images.githubusercontent.com/75712250/168480424-102484b3-e45d-498b-80d4-72a0191d9e4d.png)
+
 
 
 ## Confirmação de e-mail
