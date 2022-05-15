@@ -33,7 +33,7 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 
 
 
-![cadastro](img/cadastro.jpeg)
+![Lista de Contatos](img/listaContatos.jpeg)
 
 
 ## Cadastro
