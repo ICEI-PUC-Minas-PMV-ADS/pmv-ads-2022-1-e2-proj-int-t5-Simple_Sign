@@ -18,12 +18,12 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 
 ## Dashboard
 
-
+Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
 
 ![dashboard](img/paginaDoc.jpeg)
 
 
-## Cadastro de contato
+
 
 
 
