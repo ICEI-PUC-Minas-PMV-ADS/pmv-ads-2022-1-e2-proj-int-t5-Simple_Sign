@@ -22,14 +22,12 @@ Continuando o plano de testes, depois de realizar o login, constatamos que o usu
 
 ![dashboard](img/paginaDoc.jpeg)
 
-
+Na página de cadastro é possível cadastrar um novo contato, com as seguintes informações: nome, e-mail e cpf. 
 
 ![cadastro](img/cadastrarContato.jpeg)
 
- Na página de cadastro é possível cadastrar um novo contato, com as seguintes informações: nome, e-mail e cpf. 
  
- 
-## Lista de Contatos
+ ## Lista de Contatos
 
 Na lista é possível editar e apagar os contatos cadastrados.
 
