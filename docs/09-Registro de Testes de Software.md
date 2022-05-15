@@ -10,3 +10,5 @@ Ao digitar o endereço da página web constatamos que a janela de login é apres
 
 ![login](img/login.jpeg)
 
+## Cadastro
+
