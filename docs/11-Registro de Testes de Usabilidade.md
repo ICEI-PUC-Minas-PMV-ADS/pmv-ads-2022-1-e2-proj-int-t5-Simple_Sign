@@ -4,4 +4,5 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
-[Feedback SimpleSign (respostas) - Respostas ao formulário 1.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/files/8696090/Feedback.SimpleSign.respostas.-.Respostas.ao.formulario.1.pdf)
+
+![Testes](https://user-images.githubusercontent.com/75712250/168495149-390d97ca-73a6-414d-8952-4042d4bd8c73.png)
