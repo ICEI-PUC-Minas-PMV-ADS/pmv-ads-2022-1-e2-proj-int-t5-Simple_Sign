@@ -1979,24 +1979,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\breno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Atos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\breno\\Documents\\Dev\\Cursos\\Análise e Desenvolvimento de Sistemas\\Eixo 2\\Projeto - aplicação interativa\\workplace\\src\\SimpleSignProject\\SimpleSign.csproj",
+      "projectUniqueName": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\SimpleSign.csproj",
       "projectName": "SimpleSign",
-      "projectPath": "C:\\Users\\breno\\Documents\\Dev\\Cursos\\Análise e Desenvolvimento de Sistemas\\Eixo 2\\Projeto - aplicação interativa\\workplace\\src\\SimpleSignProject\\SimpleSign.csproj",
-      "packagesPath": "C:\\Users\\breno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\breno\\Documents\\Dev\\Cursos\\Análise e Desenvolvimento de Sistemas\\Eixo 2\\Projeto - aplicação interativa\\workplace\\src\\SimpleSignProject\\obj\\",
+      "projectPath": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\SimpleSign.csproj",
+      "packagesPath": "C:\\Users\\Atos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\breno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Atos\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2065,7 +2060,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
