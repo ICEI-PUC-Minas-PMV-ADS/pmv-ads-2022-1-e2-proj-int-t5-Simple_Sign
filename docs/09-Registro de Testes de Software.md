@@ -29,7 +29,7 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 
 ![cadastro](img/cadastrarContato.jpeg)
 
-## Cadastro
+## Lista de Contatos
 
 
 
