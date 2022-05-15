@@ -23,11 +23,11 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 ![dashboard](img/paginaDoc.jpeg)
 
 
-## Cadastro
+## Cadastro de contato
 
 
 
-![cadastro](img/cadastro.jpeg)
+![cadastro](img/cadastrar contato.jpeg)
 
 ## Cadastro
 
