@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "secretStore": "AzureAppSettings",
+      "resourceId": null,
+      "type": "mssql.onprem",
+      "connectionId": "ConnectionStrings:DESKTOP-HU4L2TH:SQLEXPRESS"
+    }
+  }
+}

@@ -1,0 +1,81 @@
+﻿@using SimpleSign.Enums
+@model UsuarioModel
+
+@{
+    ViewData["Title"] = "Criar Usuario";
+    Layout ="_LayoutDeslogado";
+
+}
+
+<section class="vh-100 " >
+  <div class="container py-5 h-100 ">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col col-xl-10">
+        <div class="card" style="border-radius: 1rem;">
+          <div class="row g-0">
+            <div class="col-md-6 col-lg-5 d-none d-md-block">
+              <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/img1.webp"
+                alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem;" />
+            </div>
+            <div class="col-md-6 col-lg-7 d-flex align-items-center">
+              <div class="card-body p-4 p-lg-5 text-black">
+                 
+
+                    <form asp-controller="Usuario" asp-action="Criar" method="post">
+
+                        <div class="d-flex align-items-center mb-3 pb-1">
+                                    <i class="fas fa-cubes fa-2x me-3" style="color: #1152B4;"></i>
+                                    <span class="h1 fw-bold mb-0"> Cadastro </span>
+                       </div>
+
+                  <div class="input-box">
+                        <label for="nome" class="form-label" > Nome</label>
+                        <input type="text" asp-for="Nome" class="form-control form-control-lg" placeholder="Digite o nome do Usuario">
+                        @Html.ValidationMessageFor(x => x.Nome)
+                  </div>
+ 
+  
+                    <div class="input-box">
+                       <label for="login" class="form-label" > Login </label>
+                        <input type="text" asp-for="Login" class="form-control form-control-lg" placeholder="Digite o CPF do usuario">
+                        @Html.ValidationMessageFor(x => x.Login)
+
+                    </div>
+
+                    <div class="input-box">
+                        <label for="email" class="form-label" > E-mail</label>
+                        <input type="email" asp-for="Email"   class="form-control form-control-lg"  placeholder="Digite o Email do usuario">
+                        @Html.ValidationMessageFor(x => x.Email)
+                    </div>
+
+                          <div class="form-group">
+                                <label for="nome" class="form-label">Perfil</label>
+                                    <select asp-for="Perfil" class="form-control">
+                                        <option value="">Selecione</option>
+                                        <option value="@PerfilEnum.Admin" >Administrador</option>
+                                        <option value="@PerfilEnum.Padrao" >Padrão</option>
+                                    </select>
+                        @Html.ValidationMessageFor(x => x.Perfil)
+                           </div>
+
+                    <div class="input-box">
+                      <label for="senha"class="form-label"> Senha</label>
+                        <input type="password" asp-for="Senha"  class="form-control form-control-lg" placeholder="Digite a senha do Usuario">
+                        @Html.ValidationMessageFor(x => x.Senha)
+                    </div>
+                  <br />
+                                  <button type="submit" class="btn btn-primary">Adicionar</button>
+ 
+                        <a class="btn btn-secondary"  asp-controller="Login" asp-action="Index" role="button"> Voltar</a>
+                </form>
+
+   
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+    
