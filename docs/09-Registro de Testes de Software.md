@@ -22,6 +22,8 @@ Continuando o plano de testes, depois de realizar o login, constatamos que o usu
 
 ![dashboard](img/paginaDoc.jpeg)
 
+## Cadastro de Contatos
+
 Na página de cadastro é possível cadastrar um novo contato, com as seguintes informações: nome, e-mail e cpf. 
 
 ![cadastro](img/cadastrarContato.jpeg)
