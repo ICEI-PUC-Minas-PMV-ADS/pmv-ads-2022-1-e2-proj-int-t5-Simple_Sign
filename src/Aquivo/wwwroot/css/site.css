@@ -1,0 +1,46 @@
+html {
+    font-size: 14px;
+    
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+.field-validation-error {
+    color: #ff0000
+}
+
+.close-alert {
+   position: absolute;
+   right: -10px;
+   top:-15px;
+   border-radius: 15px;
+   width: 30px;
+   height: 31px;
+
+
+}
+.media-object {
+ 
+  
+    width: 90px;
+    height: 90px;
+   
+}
+.usuario-foto {
+    width: 60px;
+    height: 60px;
+}

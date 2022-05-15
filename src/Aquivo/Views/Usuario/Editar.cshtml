@@ -1,0 +1,52 @@
+﻿@using SimpleSign.Enums
+@model UsuarioModel
+@{
+    ViewData["Title"] = "Editar Usuario";
+    
+}
+<div>
+
+<h1 class="display-4"> Editar Usuario</h1>
+
+
+  </div>
+
+  <form asp-controller="Usuario" asp-action="Atualizar" method="post">
+
+      <input type="hidden" asp-for="Id"/>
+
+  <div class="form-group">
+    <label for="nome"> Nome</label>
+    <input type="text" asp-for="Nome" class="form-control"  placeholder="Digite o nome do Usuario">
+    @Html.ValidationMessageFor(x => x.Nome)
+
+     <div class="form-group">
+        <label for="nome" class="form-label">E-mail</label>
+        <input type="text" asp-for="Email" class="form-control" placeholder="Digite o e-mail do usuário">
+        @Html.ValidationMessageFor(x => x.Email)
+    </div>
+ 
+  
+    <div class="form-group">
+    <label for="nome"> Login</label>
+    <input type="number" asp-for="Login" class="form-control"  placeholder="Digite o login Usuario">
+    @Html.ValidationMessageFor(x => x.Login)
+
+    <div class="form-group">
+    <label for="nome" class="form-label"> Perfil </label>
+    <select asp-for="Perfil"class="form-control">
+        <option value=""> selecione</option>
+        <option value="@PerfilEnum.Admin"> Administrador</option>
+        <option value="@PerfilEnum.Padrao"> Padrão</option>
+    </select>
+      @Html.ValidationMessageFor(x => x.Perfil)
+
+  </div>
+
+  
+  <br />
+  <button type="submit" class="btn btn-primary">Editar</button>
+
+  <a class="btn btn-secondary"  asp-controller="Usuario" asp-action="Index" role="button"> Voltar</a>
+
+</form>
