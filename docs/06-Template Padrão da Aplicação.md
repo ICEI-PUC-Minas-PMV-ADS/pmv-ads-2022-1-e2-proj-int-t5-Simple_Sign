@@ -49,7 +49,23 @@ Tela utilizada para gerar um e-mail de confirmação ao usuário, que o receber�
 ## Dashboard
 Tela onde o usuário fará a administração dos seus documentos a serem assinados.
 
-![painelControle](img/painelControle.png)
+![Dashboard](https://user-images.githubusercontent.com/75712250/168483684-8ef96fc5-fb1f-4783-92eb-a782a56ed2a8.png)
+
+## Cadastro Do Contato
+Tela para cadastrar contatos das assinaturas.
+![Cadastro de Contatos](https://user-images.githubusercontent.com/75712250/168483716-a9767466-80d9-4ef5-be73-fe21417190f9.png)
+
+## Editar Contatos
+Tela para editar contatos das assinaturas.
+![Editar Contato](https://user-images.githubusercontent.com/75712250/168483793-be0a60d1-7972-4691-a15c-e774e03981a2.png)
+
+## Lista de Contatos
+Tela para listar os contatos das assinaturas.
+![Lista De contatos](https://user-images.githubusercontent.com/75712250/168483861-d0b7dcbb-0925-49c5-915f-851d3d48a1c1.png)
+
+## Excluir Contato
+Tela para excluir os contatos das assinaturas.
+![Excluir Contato](https://user-images.githubusercontent.com/75712250/168483928-820e6e46-f3a1-4ef7-83e9-5209fd87dc08.png)
 
 ## Assinatura eletrônica
 Tela criada para assinar eletronicamente um documento.
