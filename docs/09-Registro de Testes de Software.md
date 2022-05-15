@@ -4,6 +4,12 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
+## Cadastro
+
+Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple Sign.
+
+![cadastro](img/cadastro.jpeg)
+
 ## Login
 
 Ao digitar o endereço da página web constatamos que a janela de login é apresentada ao usuário e nela é possível inserir as seguintes informações: CPF e senha.
@@ -35,3 +41,5 @@ Ao digitar o endereço da página web constatamos que a janela de login é apres
 
 
 ![cadastro](img/cadastro.jpeg)
+
+
