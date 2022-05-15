@@ -16,3 +16,22 @@ Ao digitar o endereço da página web constatamos que a janela de login é apres
 
 ![cadastro](img/cadastro.jpeg)
 
+
+## Cadastro
+
+
+
+![cadastro](img/cadastro.jpeg)
+
+## Cadastro
+
+
+
+![cadastro](img/cadastro.jpeg)
+
+
+## Cadastro
+
+
+
+![cadastro](img/cadastro.jpeg)
