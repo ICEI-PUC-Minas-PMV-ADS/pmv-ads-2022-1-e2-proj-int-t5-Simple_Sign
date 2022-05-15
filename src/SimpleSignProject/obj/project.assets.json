@@ -1984,11 +1984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\SimpleSign.csproj",
+      "projectUniqueName": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\SimpleSignProject\\SimpleSign.csproj",
       "projectName": "SimpleSign",
-      "projectPath": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\SimpleSign.csproj",
+      "projectPath": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\SimpleSignProject\\SimpleSign.csproj",
       "packagesPath": "C:\\Users\\Atos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atos\\source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign-main\\src\\SimpleSignProject\\obj\\",
+      "outputPath": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\SimpleSignProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Atos\\AppData\\Roaming\\NuGet\\NuGet.Config",
