@@ -6,13 +6,13 @@ Relatório com as evidências dos testes de software realizados no sistema pela 
 
 ## Cadastro
 
-Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple Sign.
+Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple Sign, será necessario algumas informações tais como nome, cpf, e-mail e senha.
 
 ![cadastro](img/cadastro.jpeg)
 
 ## Login
 
-Ao digitar o endereço da página web constatamos que a janela de login é apresentada ao usuário e nela é possível inserir as seguintes informações: CPF e senha.
+Ao acessar a página web de login é apresentada ao usuário e nela é possível inserir as seguintes informações: CPF e senha.
 
 ![login](img/login.jpeg)
 
