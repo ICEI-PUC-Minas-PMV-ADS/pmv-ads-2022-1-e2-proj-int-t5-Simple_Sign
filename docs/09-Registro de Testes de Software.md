@@ -20,7 +20,7 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 
 
 
-![dashboard](img/página documento.jpeg)
+![dashboard](docs/img/página documento.jpeg)
 
 
 ## Cadastro
