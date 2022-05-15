@@ -16,11 +16,11 @@ Ao acessar a página web de login é apresentada ao usuário e nela é possível
 
 ![login](img/login.jpeg)
 
-## Cadastro
+## Dashboard
 
 
 
-![cadastro](img/cadastro.jpeg)
+![dashboard](img/página documento.jpeg)
 
 
 ## Cadastro
