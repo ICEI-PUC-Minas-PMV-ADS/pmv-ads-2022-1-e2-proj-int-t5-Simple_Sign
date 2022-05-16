@@ -12,7 +12,7 @@ Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple
 
 ## Login
 
-Ao acessar a página web de login é apresentada ao usuário e nela é possível inserir as seguintes informações: CPF e senha.
+Ao acessar a página de login o usuário irá inserir as seguintes informações: CPF e senha.
 
 ![login](img/login.jpeg)
 
@@ -31,7 +31,7 @@ Na página de cadastro é possível cadastrar um novo contato, com as seguintes 
  
  ## Lista de Contatos
 
-Na lista é possível editar e apagar os contatos cadastrados.
+Na lista de contatos é possível editar e apagar os contatos cadastrados.
 
 ![Lista de Contatos](img/listaContatos.jpeg)
 
