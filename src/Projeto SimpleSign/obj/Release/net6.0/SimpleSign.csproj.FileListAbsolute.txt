@@ -68,3 +68,4 @@ C:\Users\Atos\Desktop\SimpleSign\obj\Release\net6.0\SimpleSign.genruntimeconfig.
 C:\Users\Atos\Desktop\SimpleSign\obj\Release\net6.0\ref\SimpleSign.dll
 C:\Users\Atos\Desktop\SimpleSign\bin\Release\net6.0\Newtonsoft.Json.dll
 C:\Users\Atos\Desktop\SimpleSign\obj\Release\net6.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+C:\Users\Atos\Desktop\SimpleSign\bin\Release\net6.0\libman.json
