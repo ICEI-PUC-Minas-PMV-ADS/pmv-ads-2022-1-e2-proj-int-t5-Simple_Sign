@@ -1,0 +1,226 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+section {
+    background-color: white;
+}
+
+.header {
+    background: linear-gradient(180deg, #4E719D, #50729F);
+    height: 100vh;
+    color: white;
+    font-size: 40px;
+}
+
+footer {
+    background-color: #50729F;
+    color: white;
+    text-align: center;
+    padding: 80px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+li {
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 90px;
+    margin: 0;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+p {
+    margin: 0;
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.subtext {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.main-area { 
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-area img { 
+    margin-left: 180px;
+    margin-bottom: 180px;
+}
+
+.main-text {
+    margin-left: 80px;
+    margin-bottom: 200px;
+}
+
+.botoes {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 50px;
+    
+}
+
+.button {
+    margin-right: 20px;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #819FE6;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    padding-top: 5px;
+    margin-top: 20px;
+    box-shadow: 5px 3px 3px  rgba(0, 0, 0, 0.295);
+}
+
+.button2 {
+    width: 200px;
+    height: 50px;
+    border-radius: 15px;
+    background-color: #819FE6;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 200;
+    padding-top: 5px;
+    margin-top: 20px;
+    box-shadow: 5px 3px 3px  rgba(0, 0, 0, 0.295);
+}
+
+.button p {
+    font-size: 15px;
+}
+
+.button2 p {
+    font-size: 15px;
+}
+
+
+.button hr {
+    width: 150px;
+    margin-left: 30px;
+}
+
+.button2 hr {
+    width: 150px;
+    margin-left: 30px;
+}
+
+
+.button:hover {
+    background-color: #283040;
+}
+
+.button2:hover {
+    background-color: #283040;
+}
+
+.button:active {
+    background-color: #A9A9A9;
+    color: #808080;
+}
+
+.button2:active {
+    background-color: #A9A9A9;
+    color: #808080;
+}
+
+.logo {
+    height: 130px;
+    width: 130px;
+    margin: 30px;
+}
+.social {
+    margin: 20px;
+
+}
+
+.sub-section {
+    display: flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+.sub-section-alternative {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 80px;
+}
+
+.headshot {
+    width: 300px;
+    border-radius: 150px;
+    margin-left: 80px;
+}
+
+.headshot-container {
+    display: flex;
+    align-items: center;
+}
+
+.project-card {
+    background-color: #f1ececaf;
+    width: 300px;
+    height: 500px;
+    box-shadow: 5px 5px 20px rgb(197, 195, 195);
+    margin: 10px;
+}
+
+.project-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.project-image {
+    margin-top: 25px;
+    width: 250px;
+    border-radius: 125px;
+}
+
+hr {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.project-link {
+    font-size: x-large;
+    background-color: #45526d;
+    box-shadow: 4px 2px 2px rgba(0, 0, 0, 0.637);
+    text-decoration: none;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+
