@@ -14,6 +14,7 @@ section {
     font-size: 40px;
 }
 
+
 footer {
     background-color: #50729F;
     color: white;
@@ -22,11 +23,12 @@ footer {
 }
 
 nav {
+    height: 75px;
     display: flex;
     justify-content: space-between;
 }
 
-ul {
+.ul1 {
     display: flex;
     list-style-type: none;
     width: 500px;
@@ -35,7 +37,7 @@ ul {
 }
 
 li {
-    text-decoration: none;
+   display: flex;
 }
 
 h1 {
@@ -79,13 +81,12 @@ p {
 .botoes {
     display: flex;
     justify-content: space-between;
-    margin-right: 50px;
+    margin-right: 70px;
     
 }
 
 .button {
-    margin-right: 20px;
-    font-size: 18px;
+    font-size: 15px;
     padding-top: 5px;
     margin-top: 20px;
 }
@@ -94,46 +95,6 @@ p {
     width: 40px;
     height: 30px;
     margin-right: 5px;
-}
-
-.button2 {
-    width: 200px;
-    height: 50px;
-    border-radius: 15px;
-    background-color: #819FE6;
-    text-align: center;
-    font-size: 30px;
-    font-weight: 200;
-    padding-top: 5px;
-    margin-top: 20px;
-    box-shadow: 5px 3px 3px  rgba(0, 0, 0, 0.295);
-}
-
-
-
-.button2 p {
-    font-size: 15px;
-}
-
-
-.button2:hover {
-    background-color: #283040;
-}
-
-
-.button2:active {
-    background-color: #A9A9A9;
-    color: #808080;
-}
-
-.logo {
-    height: 130px;
-    width: 130px;
-    margin: 30px;
-}
-.social {
-    margin: 20px;
-
 }
 
 .sub-section {
