@@ -85,16 +85,15 @@ p {
 
 .button {
     margin-right: 20px;
-    width: 100px;
-    height: 50px;
-    border-radius: 15px;
-    background-color: #819FE6;
-    text-align: center;
-    font-size: 30px;
-    font-weight: 200;
+    font-size: 18px;
     padding-top: 5px;
     margin-top: 20px;
-    box-shadow: 5px 3px 3px  rgba(0, 0, 0, 0.295);
+}
+
+.imgBtn {
+    width: 40px;
+    height: 30px;
+    margin-right: 5px;
 }
 
 .button2 {
@@ -110,38 +109,17 @@ p {
     box-shadow: 5px 3px 3px  rgba(0, 0, 0, 0.295);
 }
 
-.button p {
-    font-size: 15px;
-}
+
 
 .button2 p {
     font-size: 15px;
 }
 
 
-.button hr {
-    width: 150px;
-    margin-left: 30px;
-}
-
-.button2 hr {
-    width: 150px;
-    margin-left: 30px;
-}
-
-
-.button:hover {
-    background-color: #283040;
-}
-
 .button2:hover {
     background-color: #283040;
 }
 
-.button:active {
-    background-color: #A9A9A9;
-    color: #808080;
-}
 
 .button2:active {
     background-color: #A9A9A9;
