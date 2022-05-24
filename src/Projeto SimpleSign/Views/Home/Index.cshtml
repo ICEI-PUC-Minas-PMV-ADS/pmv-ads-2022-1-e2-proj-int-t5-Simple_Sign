@@ -1,4 +1,4 @@
-﻿
+﻿@using SimpleSign.Controllers;
 @{
     ViewData["Title"] = "Pagina Inicial";
     
@@ -47,8 +47,8 @@
                         <h4>Novo Documento</h4>
                         <p>Para iniciar o processo e importar um documento a ser assinado, clique no botão abaixo:</p>
                     </div>
-                    <button type="button" class="btn btn-md btn-outline-light mt-4 "  style="background-color:#5373A2">
-                        Publicar arquivo
+                    <button type="button" class="btn btn-md btn-outline-dark mt-4">
+                        <a asp-action="Index" asp-controller="Arquivo">Publicar arquivo</a>
                     </button>
                 </div>
                 <div class="col-md-4 dashboard">
