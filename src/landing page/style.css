@@ -31,13 +31,8 @@ nav {
     display: flex;
     list-style-type: none;
     width: 500px;
-    margin-top: 50px;
     justify-content: space-around;
     font-size: 30px;
-}
-
-.ul1.show {
-    display: block;
 }
 
 li {
@@ -46,6 +41,10 @@ li {
 
 li {
    display: flex;
+}
+
+.ul1 a:hover {
+    background: #7d859762;
 }
 
 h1 {
@@ -86,14 +85,17 @@ p {
     margin-bottom: 200px;
 }
 
-
-
-.button {
+.buttonNav {
     display: flex;
     margin-right: 60px;
     font-size: 15px;
     padding-top: 5px;
     margin-top: 20px;
+}
+
+.btnMobile{
+    background-color: black;
+    display: none;
 }
 
 
@@ -144,8 +146,13 @@ p {
 }
 
 hr {
+    margin-top: -20px;
     margin-left: 20px;
     margin-right: 20px;
+}
+
+.hr2 {
+    margin-top: 5px;
 }
 
 .project-link {
@@ -162,59 +169,59 @@ a {
 }
 
 svg {
+    margin-top: 10px;
     height: 30px;
     width: 30px;
     margin-left: 7px;
 }
 
-.hamburger {
-    margin-left: 50px;
-    display: none;
-}
-
-
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 900px) {
+    
     .project-container {
         display: flex;
         flex-wrap: wrap;
     }
 
-    .hamburger {
-        display: block;
-        border: 0;
-        background-color: transparent;
-        color: white;
-        font-size: 30px;
-        margin: 20px;
-        align-self: flex-end;
-    }
-
-    .botoes {
-        color: white;
-        font-size: 30px;
-        padding-top: 15px;
-        padding-bottom: 15px;
-        margin: -35px;
-
-        align-self: flex-end;
-    }
 
     .ul1 {
         display: none;
-        background-color: #BCC8E7;
-    } 
+        position: absolute;
+        width: 100%;
+        top: 70px; 
+        right: 0px;
+        background: #45526d;
+        height: 0;
+        z-index: 1000;
+    }
 
-    nav {
-        padding: 5px;
-        display: flex;
-        flex-direction: column-reverse;
-        margin: 0px;
-        background-color: #BCC8E7;
+    #nav.active .ul1 {
+        height: calc(50vh - 70px);
+        display: block;
+    }
+
+    .ul1 a  {
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgb(197, 195, 195);
+
     }
 
     hr {
         display: none;
     }
+
+    .botoes {
+        display:none
+    }
+
+    .btnMobile{
+        display: flex;
+        padding: 5rem 1rem;
+        font-size: 1rem;
+        border: none;
+    }
+    
+
 }
 
 
