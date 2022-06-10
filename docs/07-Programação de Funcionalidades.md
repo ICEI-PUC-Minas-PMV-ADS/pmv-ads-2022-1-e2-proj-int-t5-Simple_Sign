@@ -50,9 +50,6 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 
 #### Estrutura de dados
 
-![estruturaLogin](https://user-images.githubusercontent.com/90660755/173149744-c161f774-80de-457e-b599-6fec1460c9fc.png)
-
-![estruturaLogin2](https://user-images.githubusercontent.com/90660755/173150396-01cf5a3e-cd54-43ed-9455-ab781bf5f922.png)
 
 #### Instruções de acesso
 
