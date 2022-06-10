@@ -14,10 +14,10 @@ A Landing page apresenta os botões necessários para a navegação do usuário 
 
 
 #### Requisitos atendidos
-* RNF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
-* RNF-002
-* RNF-003
-* RNF-004
+* RNF-001 - Deve ser publicado em um ambiente acessível (Repl.it, GitHub Pages, Heroku.
+* RNF-002 - Deve ser responsivo permitindo a visualização em qualquer dispositivo.
+* RNF-003 - Deve ter um design simples e autoexplicativo.
+* RNF-004 - Deve ser compatível com os principais navegadores do mercado.
 
 #### Artefatos de funcionalidade
 
