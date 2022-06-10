@@ -50,7 +50,7 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 
 #### Estrutura de dados
 
-[Tela de Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Projeto%20SimpleSign/Views/Login)
+[Tela de Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/src/Projeto%20SimpleSign/Views/Login/Index.cshtml)
 
 #### Instruções de acesso
 
