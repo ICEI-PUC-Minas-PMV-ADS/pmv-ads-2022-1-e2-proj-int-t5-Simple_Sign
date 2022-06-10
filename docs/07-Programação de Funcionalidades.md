@@ -10,9 +10,8 @@ Nesta sessão serão apresentadas as telas desenvolvidas para cada uma das funci
 
 A Landing page apresenta os botões necessários para a navegação do usuário por todo o site. Um exemplo da tela é apresentado na imagem abaixo:
 
+![Landing page unit](https://user-images.githubusercontent.com/90660755/173153864-40e3895c-c037-4e3d-a33f-5764b24ab7f2.jpeg)
 
-
-![login]()
 
 #### Requisitos atendidos
 * RF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
