@@ -8,6 +8,8 @@ Nesta sessão serão apresentadas as telas desenvolvidas para cada uma das funci
 
 A tela Página de Login apresenta os campos necessários para validar o acesso do usuário à sua conta previamente criada. Os dados serão salvos em banco de dados criado no SQLServer. Um exemplo da tela é apresentado na imagem abaixo:
 
+![login](https://user-images.githubusercontent.com/90660755/173146011-26a4f73c-ff50-4013-84bd-eb9c44a99024.jpeg)
+
 #### Requisitos atendidos
 * RF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
 
@@ -47,4 +49,5 @@ A tela Lista de Usuários permite que sejam cadastrados os perfis de cada usuár
 
 
 #### Instruções de acesso
+
 
