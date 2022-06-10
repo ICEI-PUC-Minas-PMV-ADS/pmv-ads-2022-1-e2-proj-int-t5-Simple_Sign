@@ -18,6 +18,8 @@ A Landing page apresenta os botões necessários para a navegação do usuário 
 
 #### Artefatos de funcionalidade
 
+* index.html
+* style.css
 
 #### Estrutura de dados
 
