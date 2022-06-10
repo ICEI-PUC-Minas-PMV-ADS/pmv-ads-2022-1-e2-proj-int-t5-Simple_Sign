@@ -6,6 +6,31 @@
 
 Nesta sessão serão apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações serão apresentadas na sequência.
 
+### Landing Page (RF-000)
+
+A Landing page apresenta os botões necessários para a navegação do usuário por todo o site. Um exemplo da tela é apresentado na imagem abaixo:
+
+
+
+![login]()
+
+#### Requisitos atendidos
+* RF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
+
+#### Artefatos de funcionalidade
+
+
+#### Estrutura de dados
+
+
+
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a URL https://.../
+2. Abrirá a Landing Page.
+
+
 ### Página de Login (RF-001)
 
 A tela Página de Login apresenta os campos necessários para validar o acesso do usuário à sua conta previamente criada. Os dados serão salvos em banco de dados criado no SQLServer. Um exemplo da tela é apresentado na imagem abaixo:
