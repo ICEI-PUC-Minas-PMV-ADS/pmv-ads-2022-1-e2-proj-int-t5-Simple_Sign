@@ -1,4 +1,4 @@
-![estruturaLogin](https://user-images.githubusercontent.com/90660755/173149744-c161f774-80de-457e-b599-6fec1460c9fc.png)
+
 # Programação de Funcionalidades
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="4-Metodologia.md"> Metodologia</a>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>, <a href="5-Arquitetura da Solução.md"> Arquitetura da Solução</a>
@@ -18,6 +18,8 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 *
 
 #### Estrutura de dados
+
+![estruturaLogin](https://user-images.githubusercontent.com/90660755/173149744-c161f774-80de-457e-b599-6fec1460c9fc.png)
 
 
 #### Instruções de acesso
