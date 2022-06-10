@@ -29,7 +29,7 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 #### Instruções de acesso
 
 1. Abra um navegador de Internet e informe a URL https://.../
-2. Abrirá a página inicial do site.
+2. Abrirá a página de login.
 
 
 ### Lista de Contatos
