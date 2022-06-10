@@ -16,7 +16,9 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 * RF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
 
 #### Artefatos de funcionalidade
-*
+* ViewImports.cshtml
+* ViewStart.cshtml
+* LoginModel.cs
 
 #### Estrutura de dados
 
