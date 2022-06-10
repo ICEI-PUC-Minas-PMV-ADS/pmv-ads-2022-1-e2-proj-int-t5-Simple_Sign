@@ -6,7 +6,7 @@
 
 Nesta sessão serão apresentadas as telas desenvolvidas para cada uma das funcionalidades do sistema. O respectivo endereço (URL) e outras orientações serão apresentadas na sequência.
 
-### Landing Page
+### Landing Page (RNF - 001,002, 003, 004)
 
 A Landing page apresenta os botões necessários para a navegação do usuário por todo o site. Um exemplo da tela é apresentado na imagem abaixo:
 
