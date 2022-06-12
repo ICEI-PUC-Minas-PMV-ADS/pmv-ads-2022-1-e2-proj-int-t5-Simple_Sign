@@ -49,7 +49,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="src/README.md"> Código Fonte</a></li>
 
 # Apresentação
-Link do site: https://projectsimplesign.azurewebsites.net
+Link do site: https://simplesignproject.azurewebsites.net
 
 ![solucoes](https://user-images.githubusercontent.com/75712250/158076169-8cf951f3-e88c-40a3-bf01-9466eac9112e.jpeg)
 
