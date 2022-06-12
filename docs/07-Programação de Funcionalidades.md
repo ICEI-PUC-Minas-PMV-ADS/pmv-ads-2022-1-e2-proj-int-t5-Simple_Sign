@@ -94,8 +94,7 @@ A tela para redefinir a senha apresenta os campos necessários para o usuário c
 * RF-003 - O O sistema deve permitir que o usuário cadastre uma nova senha caso o mesmo esqueça a atual.
 
 #### Artefatos de funcionalidade
-* ....
-* ....
+* redefinirsenha.cshtml
 
 #### Estrutura de dados
 
