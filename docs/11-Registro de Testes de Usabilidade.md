@@ -5,4 +5,4 @@ Após realizar os testes de usabilidade, obtém-se um relatório a partir das an
 As referências abaixo irão auxiliá-lo na geração do artefato “Registro de Testes de Usabilidade”.
 
 
-![Testes](https://user-images.githubusercontent.com/75712250/168495149-390d97ca-73a6-414d-8952-4042d4bd8c73.png)
+![Testes](![168495149-390d97ca-73a6-414d-8952-4042d4bd8c73](https://user-images.githubusercontent.com/90878497/173242881-24eac564-81c3-430d-8d69-6245096432ab.png))
