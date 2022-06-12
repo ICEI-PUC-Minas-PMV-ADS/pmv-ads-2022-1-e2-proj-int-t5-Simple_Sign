@@ -94,12 +94,12 @@ A tela para redefinir a senha apresenta os campos necessários para o usuário c
 * RF-003 - O O sistema deve permitir que o usuário cadastre uma nova senha caso o mesmo esqueça a atual.
 
 #### Artefatos de funcionalidade
-* tela_de_cadastro.css
-* tela_de_cadastro.html
+* ....
+* ....
 
 #### Estrutura de dados
 
-[Tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Tela%20de%20cadastro)
+[Tela de recuperação de senha](...........)
 
 #### Instruções de acesso
 
