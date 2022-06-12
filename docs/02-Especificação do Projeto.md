@@ -63,8 +63,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Deve permitir que os usuários gerenciem um perfil com dados pessoais | ALTA | 
-|RF-002| Deve possuir filtros para parametrizar a busca dos documentos armazenados | MÉDIA |
+|RF-001| O sistema permitirá que usuários efetuem o login  | ALTA | 
+|RF-002| O sistema permitirá que usuários se cadastrem | ALTA |
 |RF-003| Deve permitir fazer upload dos documentos e armazená-los em sua conta, classificando-os pelo seu respectivo tipo | ALTA |
 |RF-004| Deve permitir que os documentos armazenados sejam direcionados a outros usuários para assinatura | ALTA |
 |RF-005| Deve disparar um e-mail informando ao destinatário responsável pela assinatura sobre a alteração do status do documento | MÉDIA |
