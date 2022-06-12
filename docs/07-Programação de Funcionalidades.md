@@ -60,6 +60,30 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Login/Index
 2. Abrirá a página de login.
 
+### Página de Cadastro (RF-002)
+
+A tela de Cadastro de apresenta os campos necessários para o usuário cadastrar uma conta. Os dados serão salvos em banco de dados criado no SQLServer. Um exemplo da tela é apresentado na imagem abaixo:
+
+![Cadastro](https://user-images.githubusercontent.com/90660755/173247195-9b973f86-9352-4e8e-b8f3-f9e07e176356.png)
+
+
+#### Requisitos atendidos
+* RF-002 - O sistema permitirá que usuários se cadastrem
+
+#### Artefatos de funcionalidade
+* ViewImports.cshtml
+* ViewStart.cshtml
+* LoginModel.cs
+
+#### Estrutura de dados
+
+[Tela de Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/src/Projeto%20SimpleSign/Views/Login/Index.cshtml)
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Login/Index
+2. Abrirá a página de login.
+
 
 ### Lista de Contatos
 
