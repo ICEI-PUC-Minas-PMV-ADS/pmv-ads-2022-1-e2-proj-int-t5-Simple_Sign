@@ -71,17 +71,16 @@ A tela de Cadastro de apresenta os campos necessários para o usuário cadastrar
 * RF-002 - O sistema permitirá que usuários se cadastrem
 
 #### Artefatos de funcionalidade
-* ViewImports.cshtml
-* ViewStart.cshtml
-* LoginModel.cs
+* tela_de_cadastro.css
+* tela_de_cadastro.html
 
 #### Estrutura de dados
 
-[Tela de Login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/src/Projeto%20SimpleSign/Views/Login/Index.cshtml)
+[Tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Tela%20de%20cadastro)
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Login/Index
+1. Abra um navegador de Internet e informe a URL: ....
 2. Abrirá a página de login.
 
 
