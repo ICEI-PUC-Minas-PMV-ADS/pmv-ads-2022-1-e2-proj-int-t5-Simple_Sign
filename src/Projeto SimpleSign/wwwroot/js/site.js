@@ -41,9 +41,15 @@ function getDataTable(id) {
     });
 }
 
+$(document).ready(function () {
 
-$('.close-alert').click(function () {
-    $('.alert').hide('hide');
+    $('#smartwizard').smartWizard({
+        selected: 0,
+        theme: 'dots',
+        autoAdjustHeight: true,
+        transitionEffect: 'fade',
+        showStepURLhash: false,
+
+    });
 
 });
-

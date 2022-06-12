@@ -12,7 +12,9 @@ namespace SimpleSign.Data
         
         public DbSet<ContatoModel> Contatos { get; set; }
         public DbSet<UsuarioModel> Usuarios { get; set; }
-        public DbSet<ArquivoModel> Arquivos { get; set; }
+       
+     
+
 
     }
 }

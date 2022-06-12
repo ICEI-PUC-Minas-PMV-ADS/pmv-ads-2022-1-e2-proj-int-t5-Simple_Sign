@@ -3,21 +3,23 @@ using SimpleSign.Enums;
 using SimpleSign.Filters;
 using SimpleSign.Models;
 using SimpleSign.Repositorio;
+using SimpleSign.Services;
 using System.Diagnostics;
-
+using System.Text;
 
 namespace SimpleSign.Controllers
 {
     
     public class UsuarioController : Controller
     {
-        private readonly IUsuarioRepositorio _usuarioRepositorio;
-
+        private  IUsuarioRepositorio _usuarioRepositorio;
+        
        
 
-        public UsuarioController(IUsuarioRepositorio usuarioRepositorio)
+        public UsuarioController(IUsuarioRepositorio usuarioRepositorio )
         {
             _usuarioRepositorio = usuarioRepositorio;
+           
         }
 
         public IActionResult Index()
@@ -76,19 +78,39 @@ namespace SimpleSign.Controllers
         }
 
         [HttpPost]
-        public IActionResult Criar(UsuarioModel usuario)
+        public   IActionResult Criar(UsuarioModel usuario)
 
         {
             try
             {
                 if (ModelState.IsValid)
                 {
+                  
+                    
+                   
                     usuario = _usuarioRepositorio.Adicionar(usuario);
-                    TempData["MensagemSucesso"] = "Usuario cadastrado com sucesso!";
+                    Suporte objsup = new Suporte();
+                    string corpoEmail = "Olá, " + usuario.Nome + " Bem vindo ao sistema! Cadastro realizado com sucesso!" +
+                        " Agora você já está pronto para utilizar suas assinaturas.";
+                    objsup.EnviarEmail("Bem Vindo Ao SimpleSign!", usuario.Email, corpoEmail);
+                    TempData["MensagemSucesso"] = $"Cadastro realizado com sucesso!";
+                    return RedirectToAction("Index", "Login");
+
+
+                }
+
+                else
+                {
+                    Suporte objsup = new Suporte();
+                    string corpoEmail = "Olá" + usuario.Nome + "Bem vindo ao sistema. Senha Redefinida com sucesso!";
+                    objsup.EnviarEmail("Bem Vindo Ao SimpleSign", usuario.Email, corpoEmail);
+                    TempData["MensagemSucesso"] = $"Enviamos para seu e-mail cadastrado uma nova senha.";
+                    
+                    
                     return RedirectToAction("Index", "Login");
                 }
 
-                return View(usuario);
+
 
             }
             catch (Exception erro)

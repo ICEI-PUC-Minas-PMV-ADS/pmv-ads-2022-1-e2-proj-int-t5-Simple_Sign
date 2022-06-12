@@ -1,0 +1,101 @@
+﻿
+@{
+    ViewData["Title"] = "Pagina Principal";
+    Layout ="_LayoutDeslogado";
+  
+ 
+
+}
+
+<html>
+    <link rel="stylesheet" href=/css/stylePage.css />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.11.5/datatables.min.css"/>
+     <link rel="stylesheet" href=/css/stylePage.css asp-append-version="true"/>
+    
+  <body>
+      
+      <section class="header">
+          <nav>
+            <ul id="nav-list" class="ul1">
+                  <li><a href="#about-me">Sobre</a></li>
+                  <li><a href="#projects">Pacotes</a></li>
+                  <li><a href="#contact-me">Contato</a></li>
+              </ul>
+              <div class="botoes">
+      
+                <div class="button"><a asp-area="" asp-controller="Login" asp-action="Index" role="button"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.1.1 by fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z" fill= "#fff"/></svg></a> <br> Login
+              </div>
+              </div>
+          </nav>
+          <hr>
+          <div class="main-area">
+            <img class="landingPageImg" src="assets/Home-Page2.png" alt="">
+            
+            
+            <div class="main-text">
+              <h1 >Simple Sign</h1>
+                <p>Assinatuaras Digitais</p>
+                </div>
+               </div>
+                
+        </section>
+      <section class="sub-section" id="about-me">
+          <div class="information">
+              <h2> Documentos assinados de forma rápida e simples </h2>
+              <br />
+              <p>Com Simple Sign você assina seus documentos  de qualquer lugar e a qualquer momento. Acesse e assine documentos de maneira rápida e segura.</p>
+          </div>
+          <div class="headshot-container">
+              <img class="headshot" src="assets/logo.png" alt="Ania kubow headshot"/>
+          </div>
+      </section>
+      <section class="sub-section-alternative" id="projects">
+          <h2>Pacotes</h2>
+          <div class="project-container">
+              <div class="project-card">
+                  <img class="project-image" src="assets/oie_transparent.png" alt="Project One Image"/>
+                  <h3>Básico</h3>
+                  <ul>
+                    <li>Usuários limitados ✔️</li>
+                    <li>10 documentos ✔️</li>
+                    <li>2 anos de armazenamento ✔️</li>
+                </ul>
+                  <hr/>
+                  <p class="subtext"><a class="project-link" href="#">Começar</a></p>
+              </div>
+              <div class="project-card">
+                <img class="project-image" src="assets/oie_transparent.png" alt="Project One Image"/>
+                <h3>Intermediário</h3>
+                <ul>
+                  <li>Usuários Ilimitados ✔️</li>
+                  <li>20 documentos ✔️</li>
+                  <li>2 anos de armazenamento ✔️</li>
+              </ul>
+                <hr/>
+                <p class="subtext"><a class="project-link" href="#">Começar</a></p>
+              </div>
+              <div class="project-card">
+                <img class="project-image" src="assets/oie_transparent.png" alt="Project One Image"/>
+                <h3>Profissional</h3>
+                <ul>
+                  <li>Usuários Ilimitados ✔️</li>
+                  <li>50 documentos ✔️</li>
+                  <li>3 anos de armazenamento ✔️</li>
+              </ul>
+                <hr/>
+                <p class="subtext"><a class="project-link" href="#">Começar</a></p>
+              </div>
+          </div>
+      </section>
+      <footer id="contact-me">
+          <h2>Contato</h2>
+          <p>simplesign@gmail.com</p>
+      </footer>
+      <script src="https://kit.fontawesome.com/2eedc8109a.js" crossorigin="anonymous"></script>
+    </body>
+    
+     </html>
+     
+  

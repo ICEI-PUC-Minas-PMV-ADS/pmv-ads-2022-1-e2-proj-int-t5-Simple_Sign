@@ -21,6 +21,11 @@ namespace SimpleSign.Repositorio
             return _bancoContext.Usuarios.FirstOrDefault(x => x.Login.ToUpper() == login.ToUpper());
 
         }
+        public UsuarioModel BuscarPorEmailELogin(string login, string email)
+        {
+            return _bancoContext.Usuarios.FirstOrDefault(x => x.Email.ToUpper() == email.ToUpper() && x.Login.ToUpper() == login.ToUpper());
+
+        }
 
         public UsuarioModel ListarPorId(int id)
         {
@@ -53,6 +58,7 @@ namespace SimpleSign.Repositorio
             UsuarioDB.Login = usuario.Login;
             UsuarioDB.Email = usuario.Email;
             UsuarioDB.Perfil = usuario.Perfil;
+            UsuarioDB.Senha = usuario.Senha;
             UsuarioDB.DataAtualizacao = DateTime.Now;
             
             _bancoContext.Usuarios.Update(UsuarioDB);
@@ -71,7 +77,7 @@ namespace SimpleSign.Repositorio
             return true;
         }
 
-        
+     
     }
 
 }

@@ -9,5 +9,7 @@ namespace SimpleSign.Models
 
         [Required(ErrorMessage = "Digite a senha")]
         public string Senha { get; set; }
+       
     }
+
 }

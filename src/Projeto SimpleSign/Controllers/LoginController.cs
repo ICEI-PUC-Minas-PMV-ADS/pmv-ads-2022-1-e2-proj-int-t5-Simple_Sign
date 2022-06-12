@@ -2,6 +2,7 @@
 using SimpleSign.Models;
 using SimpleSign.Repositorio;
 using SimpleSign.Helper;
+using SimpleSign.Services;
 
 namespace SimpleSign.Controllers
 {
@@ -27,6 +28,14 @@ namespace SimpleSign.Controllers
 
             return View();
         }
+            public IActionResult Ir()
+            {
+            return View("Principal", "Login");
+            }
+        public IActionResult RedefinirSenha()
+        {
+            return View();
+        }
         public IActionResult Sair()
         {
             _sessao.RemoverSessaoUsuario();
@@ -40,7 +49,7 @@ namespace SimpleSign.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                   UsuarioModel usuario = _usuarioRepositorio.BuscarPorLogin(loginModel.Login);
+                    UsuarioModel usuario = _usuarioRepositorio.BuscarPorLogin(loginModel.Login);
 
 
 
@@ -71,17 +80,46 @@ namespace SimpleSign.Controllers
                 TempData["MensagemErro"] = $"Ops, não conseguimos realizar seu login, tente novamente. Mais detalhes do erro: {erro.Message}";
 
                 return RedirectToAction("Index");
+
             }
-           
-
-
         }
+            [HttpPost]
+            public IActionResult EnviarLinkParaRedefinirSenha(RedefinirSenhaModel redefinirSenhaModel)
+            {
+                try
+                {
 
-        public override bool Equals(object? obj)
-        {
-            return obj is LoginController controller &&
-                   EqualityComparer<IUsuarioRepositorio>.Default.Equals(_usuarioRepositorio, controller._usuarioRepositorio);
-        }
+                if (ModelState.IsValid)
+                {
+                    UsuarioModel usuario = _usuarioRepositorio.BuscarPorEmailELogin(redefinirSenhaModel.Email, redefinirSenhaModel.Login);
+
+                    if (usuario != null)
+                    {
+                        string novaSenha = usuario.GerarNovaSenha();
+                        _usuarioRepositorio.Atualizar(usuario);
+
+                        TempData["MensagemSucesso"] = $"Enviamos para seu e-mail cadastrado uma nova senha.";
+                        return RedirectToAction("Index", "Login");
+
+
+
+                    }                    
+
+                        TempData["MensagemErro"] = $"Não conseguimos redefinir sua senha. Por favor, verifique os dados informados.";
+                    }
+
+                    return View("Index");
+                }
+                catch (Exception erro)
+                {
+                    TempData["MensagemErro"] = $"Ops, não conseguimos redefinir sua senha, tente novamante, detalhe do erro: {erro.Message}";
+                    return RedirectToAction("Index");
+                }
+
+
+            }
+        
+       
        
     }
 }
