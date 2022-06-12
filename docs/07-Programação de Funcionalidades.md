@@ -44,7 +44,7 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 ![login](https://user-images.githubusercontent.com/90660755/173146011-26a4f73c-ff50-4013-84bd-eb9c44a99024.jpeg)
 
 #### Requisitos atendidos
-* RF-001 - Deve permitir que os usuários gerenciem um perfil com dados pessoais
+* RF-001 - O sistema permitirá que usuários efetuem o login
 
 #### Artefatos de funcionalidade
 * ViewImports.cshtml
