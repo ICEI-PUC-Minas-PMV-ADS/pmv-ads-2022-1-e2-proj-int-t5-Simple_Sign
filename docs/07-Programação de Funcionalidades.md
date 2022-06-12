@@ -33,7 +33,7 @@ A Landing page apresenta os botões necessários para a navegação do usuário 
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a URL https://simplesignproject.azurewebsites.net/
+1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/
 2. Abrirá a Landing Page.
 
 
@@ -57,7 +57,7 @@ A tela Página de Login apresenta os campos necessários para validar o acesso d
 
 #### Instruções de acesso
 
-1. Abra um navegador de Internet e informe a URL https://.../
+1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Login/Index
 2. Abrirá a página de login.
 
 
