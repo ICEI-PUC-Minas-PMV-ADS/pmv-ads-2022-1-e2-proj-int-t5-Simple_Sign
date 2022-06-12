@@ -81,7 +81,7 @@ A tela de Cadastro de apresenta os campos necessários para o usuário cadastrar
 #### Instruções de acesso
 
 1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Usuario/Criar
-2. Abrirá a página de login.
+2. Abrirá a página de cadastro.
 
 
 ### Lista de Contatos
