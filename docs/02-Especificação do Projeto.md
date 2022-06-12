@@ -70,8 +70,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-005| Deve disparar um e-mail informando ao destinatário responsável pela assinatura sobre a alteração do status do documento | MÉDIA |
 |RF-006| Deve permitir a interação dos usuários por meio da abertura de um tíquete/chamado para alteração das informações contidas no documento, especificando onde é necessário mudar e qual a mudança | MÉDIA |
 |RF-007| Deve registrar as informações de data/hora das interações de forma automática | BAIXA |
-|RF-008| Deve permitir que o usuário administrador altere/escolha o pacote que mais se adeque ao momento | ALTA |
-|RF-009| Deve permitir que o usuário administrador altere as permissões dos demais usuários | ALTA |
+
+
 
 
 ### Requisitos não Funcionais
