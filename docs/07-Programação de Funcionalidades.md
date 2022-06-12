@@ -83,6 +83,29 @@ A tela de Cadastro de apresenta os campos necessários para o usuário cadastrar
 1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Usuario/Criar
 2. Abrirá a página de cadastro.
 
+### Página de Cadastro (RF-003)
+
+A tela de Cadastro de apresenta os campos necessários para o usuário cadastrar uma conta. Os dados serão salvos em banco de dados criado no SQLServer. Um exemplo da tela é apresentado na imagem abaixo:
+
+![redefinirSenha](https://user-images.githubusercontent.com/90660755/173247947-6999dfc5-acdc-4974-b0c8-a2ba87e1c84a.png)
+
+
+#### Requisitos atendidos
+* RF-003 - O O sistema deve permitir que o usuário cadastre uma nova senha caso o mesmo esqueça a atual.
+
+#### Artefatos de funcionalidade
+* tela_de_cadastro.css
+* tela_de_cadastro.html
+
+#### Estrutura de dados
+
+[Tela de Cadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Tela%20de%20cadastro)
+
+#### Instruções de acesso
+
+1. Abra um navegador de Internet e informe a URL: https://simplesignproject.azurewebsites.net/Login/RedefinirSenha
+2. Abrirá a página para redefinir a senha.
+
 
 ### Lista de Contatos
 
