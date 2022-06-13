@@ -41,8 +41,9 @@ Na página de cadastro é possível cadastrar um novo contato, com as seguintes 
 
 ![cadastar contato](https://user-images.githubusercontent.com/90660755/173385238-129cd819-271e-4e15-9ad2-78c71e74a363.png)
 
+Um exemplo é apresentado no vídeo abaixo:
 
- ## Lista de Contatos
+## Lista de Contatos
 
 Na lista de contatos é possível editar e apagar os contatos cadastrados.
 
