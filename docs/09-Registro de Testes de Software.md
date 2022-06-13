@@ -32,6 +32,8 @@ Continuando o plano de testes, depois de realizar o login, constatamos que o usu
 
 Um exemplo é apresentado no vídeo abaixo:
 
+https://user-images.githubusercontent.com/90660755/173384166-b3949761-0b82-4143-aa2b-ffdaa4d6454e.mp4
+
 
 ## Cadastro de Contatos
 
