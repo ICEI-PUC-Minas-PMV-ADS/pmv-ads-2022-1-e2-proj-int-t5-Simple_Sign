@@ -30,6 +30,8 @@ Continuando o plano de testes, depois de realizar o login, constatamos que o usu
 
 ![dashboard](https://user-images.githubusercontent.com/90660755/173383505-016fc8f3-74b5-450c-a571-8971fa2b7ea8.png)
 
+Um exemplo é apresentado no vídeo abaixo:
+
 
 ## Cadastro de Contatos
 
