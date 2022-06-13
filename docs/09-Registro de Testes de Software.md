@@ -14,8 +14,6 @@ Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173379693-c61db60e-27d7-4d81-950e-981c2eb2d732.mp4
 
-
-
 ## Login
 
 Ao acessar a página de login o usuário irá inserir as seguintes informações: CPF e senha.
@@ -26,13 +24,12 @@ Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173382064-f4b41c29-a6db-4126-b67c-97a9d18687ba.mp4
 
-
-
 ## Dashboard
 
 Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
 
-![dashboard](img/paginaDoc.jpeg)
+![dashboard](https://user-images.githubusercontent.com/90660755/173383505-016fc8f3-74b5-450c-a571-8971fa2b7ea8.png)
+
 
 ## Cadastro de Contatos
 
