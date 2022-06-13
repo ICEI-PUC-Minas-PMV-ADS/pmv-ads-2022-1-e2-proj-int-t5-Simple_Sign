@@ -10,6 +10,12 @@ Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple
 
 ![cadastro](img/cadastro.jpeg)
 
+
+
+https://user-images.githubusercontent.com/90660755/173379693-c61db60e-27d7-4d81-950e-981c2eb2d732.mp4
+
+
+
 ## Login
 
 Ao acessar a página de login o usuário irá inserir as seguintes informações: CPF e senha.
