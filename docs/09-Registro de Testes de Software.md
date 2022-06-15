@@ -67,6 +67,5 @@ Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173387989-948ea9b6-f1d5-4129-b4a1-c83c75ea942c.mp4
 
-##Avaliação
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+
 
