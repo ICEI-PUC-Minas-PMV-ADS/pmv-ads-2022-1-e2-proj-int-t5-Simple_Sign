@@ -15,8 +15,6 @@ Este trabalho visa a criação de um software que facilite as pessoas e entidade
 * Daniel Borges
 * Gabriel Garcia
 * Kaique Rocha
-* Luciana Costa
-* Naiara Flores
 
 ## Orientador
 
