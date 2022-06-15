@@ -1,7 +1,5 @@
 # Registro de Testes de Usabilidade
 
-# Registro de Testes de Usabilidade
-
 Registro de Testes de Usabilidade
 
 A análise do resultado do teste de usabilidade à distância deve ser igual ao de um teste presencial, para registro uma tabela conforme abaixo:
