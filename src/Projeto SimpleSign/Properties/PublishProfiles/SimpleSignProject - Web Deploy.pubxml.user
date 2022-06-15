@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6WFNQPHbtE+wPhJWuEY9xQAAAAACAAAAAAAQZgAAAAEAACAAAAAsCFjlGpDfhgL/72A+Fxo/iWpt3KjgEu/u+pzpMtDnsQAAAAAOgAAAAAIAACAAAABEhc9lBZNVmRCjXFeu+XS6R5/rgpD/9rAsbbqKzhl3UoAAAAAfrjESx1fwrQ1LU1ExQAX3w9fKv7MJlka/cpTnHqw5VFRDezj/5obmhh5U4tIRrMOqAXpSUOcIthjrnN3ibsGfme+y+7n5letusYRYNVTPbkVsPRroU7PRST5M9t0+Jx/94LbC0x+J7PgQSzlfzrziyQa/rFEX1SWfNDfGl3s7IkAAAACnqps9ze3AVqxddAknURKjMWulEfxqjPd3zkdXfDRBix7oPTaxIZzdC4Qs4Yj1Hm8JtDu6N78e3BL8wWmbr3mp</EncryptedPassword>
+    <History>True|2022-06-13T00:00:44.1393747Z;True|2022-06-12T20:56:37.9791568-03:00;True|2022-06-12T20:40:02.0171310-03:00;True|2022-06-12T20:38:38.4391997-03:00;False|2022-06-12T20:37:18.8189502-03:00;False|2022-06-12T20:33:33.0882649-03:00;False|2022-06-12T20:29:23.9706925-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="150" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:assinaturas.database.windows.net,1433;Initial Catalog=SimpleSign_db;User Id=Ka@assinaturas;Password=1234" />
+    <AzureDBConnectionStrings Include="Data Source=tcp:simplesignusuarios.database.windows.net,1433;Initial Catalog=SSISDB;User Id=SimpleSign@simplesignusuarios;Password=SimpleSign123" />
+  </ItemGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DataBase">
+      <Value>Data Source=tcp:simplesignusuarios.database.windows.net,1433%3bInitial Catalog=SSISDB%3bUser Id=SimpleSign%40simplesignusuarios%3bPassword=Simple123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="SimpleSign.Data.ArquivoContext">
+      <Value>Data Source=tcp:simplesignusuarios.database.windows.net,1433%3bInitial Catalog=SSISDB%3bUser Id=SimpleSign%40simplesignusuarios%3bPassword=Simple123</Value>
+    </EFMigrations>
+    <EFMigrations Include="SimpleSign.Data.BancoContent">
+      <Value>Data Source=tcp:simplesignusuarios.database.windows.net,1433%3bInitial Catalog=SSISDB%3bUser Id=SimpleSign%40simplesignusuarios%3bPassword=Simple123</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

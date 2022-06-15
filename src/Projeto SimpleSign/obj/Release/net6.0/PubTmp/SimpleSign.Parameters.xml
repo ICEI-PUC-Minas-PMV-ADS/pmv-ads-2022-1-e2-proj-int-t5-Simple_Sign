@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <parameters>
-  <parameter name="IIS Web Application Name" description="" value="SimpleSignProj" tags="IisApp">
+  <parameter name="IIS Web Application Name" description="" value="SimpleSignProject" tags="IisApp">
     <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto\ SimpleSign\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
   </parameter>
-  <parameter name="SimpleSign.Data.ArquivoContext" description="" value="Data Source=tcp:simplesignusuarios.database.windows.net,1433;Initial Catalog=SSISDB;User Id=SimpleSign@simplesignusuarios;Password=SimpleSign123" tags="dbfullsql">
+  <parameter name="SimpleSign.Data.ArquivoContext" description="" value="Data Source=tcp:simplesignusuarios.database.windows.net,1433;Initial Catalog=SSISDB;User Id=SimpleSign@simplesignusuarios;Password=Simple123" tags="dbfullsql">
     <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto\ SimpleSign\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\SimpleSign\.Data\.ArquivoContext\.sql$" />
   </parameter>
-  <parameter name="SimpleSign.Data.BancoContent" description="" value="Data Source=tcp:simplesignusuarios.database.windows.net,1433;Initial Catalog=SSISDB;User Id=SimpleSign@simplesignusuarios;Password=SimpleSign123" tags="dbfullsql">
+  <parameter name="SimpleSign.Data.BancoContent" description="" value="Data Source=tcp:simplesignusuarios.database.windows.net,1433;Initial Catalog=SSISDB;User Id=SimpleSign@simplesignusuarios;Password=Simple123" tags="dbfullsql">
     <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto\ SimpleSign\\obj\\Release\\net6\.0\\PubTmp\\EFSQLScripts\\SimpleSign\.Data\.BancoContent\.sql$" />
   </parameter>
 </parameters>

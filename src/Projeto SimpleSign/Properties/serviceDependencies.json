@@ -5,13 +5,11 @@
     },
     "mssql2": {
       "type": "mssql",
-      "connectionId": "ConnectionStrings:simplesignusuarios",
-      "dynamicId": null
+      "connectionId": "ConnectionStrings:simplesignusuarios"
     },
     "mssql1": {
       "type": "mssql",
-      "connectionId": "ConnectionStrings:DataBase",
-      "dynamicId": null
+      "connectionId": "ConnectionStrings:DataBase"
     }
   }
 }
