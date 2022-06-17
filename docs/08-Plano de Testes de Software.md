@@ -22,7 +22,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Caso de Teste | **CT-03 – Recuperação de senha** |
 |Requisito Associado | RF-003 - O sistema deve permitir que o usuário cadastre uma nova senha caso o mesmo esqueça a atual.	|
 |Objetivo do Teste | Verificar se o usuário consegue criar uma nova senha. |
-|Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - - Clicar em "Redefinir Senha" <br> Preencher o campo de CPF <br> - - Preencher o campo do e-mail <br> - Clicar em "Redefinir Senha" |
+|Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - - Clicar em "Redefinir Senha" <br> Preencher o campo de CPF <br> -  Preencher o campo do e-mail <br> - Clicar em "Redefinir Senha" |
 |Critério de Êxito | - O usuário consegue uma nova senha.  |
 |  	|  	|
 | Caso de Teste 	| **CT-04  Criar um novo contato**	|
