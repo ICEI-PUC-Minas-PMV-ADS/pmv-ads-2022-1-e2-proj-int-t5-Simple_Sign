@@ -13,13 +13,13 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador - Informar o endereço do site <br> - Clicar em "cadastrar" <br> - Preencher os campos obrigatórios (nome, e-mail, CPF, senha) <br> - Clicar em "cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
+| Caso de Teste 	| **CT-02  Efetuar login**	|
 |Requisito Associado | RF-002	- O sistema permitirá que usuários efetuem o login |
 | Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" |
 |Critério de Êxito | - O login foi realizado com sucesso. |
 |  	|  	|
-| Caso de Teste | CT-03 – Recuperação de senha |
+| Caso de Teste | **CT-03 – Recuperação de senha** |
 |Requisito Associado | RF-003 - O sistema deve permitir que o usuário cadastre uma nova senha caso o mesmo esqueça a atual.	|
 |Objetivo do Teste | Verificar se o usuário consegue criar uma nova senha. |
 |Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - - Clicar em "Redefinir Senha" <br> Preencher o campo de CPF <br> - - Preencher o campo do e-mail <br> - Clicar em "Redefinir Senha" |
