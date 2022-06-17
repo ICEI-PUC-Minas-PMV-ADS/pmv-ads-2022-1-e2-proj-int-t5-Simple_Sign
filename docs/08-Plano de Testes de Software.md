@@ -29,6 +29,18 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |Requisito Associado | RF-004	- Deve permitir que o usuário cadastre um novo contato. |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo contato. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> Preencher os campos necessários <br> clicar em "Adicionar" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+|Critério de Êxito | - O novo contato foi criado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| **CT-05  Editar um contato**	|
+|Requisito Associado | RF-004	- Deve permitir que o usuário edite um contato. |
+| Objetivo do Teste 	| Verificar se o usuário consegue editar um contato. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> Clicar em "Editar" <br> Preencher os campos que deseja alterar <br> clicar em "Alterar" |
+|Critério de Êxito | - O contato foi atualizado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| **CT-06  Apagar um contato**	|
+|Requisito Associado | RF-004	- Deve permitir que o usuário apague um contato. |
+| Objetivo do Teste 	| Verificar se o usuário consegue apagar um contato. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> Clicar em "Apagar" <br> Clicar em "Confirmar exclusão"  |
+|Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
 
