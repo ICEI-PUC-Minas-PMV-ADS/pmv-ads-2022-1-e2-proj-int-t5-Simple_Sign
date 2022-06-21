@@ -25,7 +25,7 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 |Passos | - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar em "Redefinir Senha" <br> - Preencher o campo de CPF <br> -  Preencher o campo do e-mail <br> - Clicar em "Redefinir Senha" |
 |Critério de Êxito | - O usuário consegue uma nova senha.  |
 |  	|  	|
-| Caso de Teste 	| **CT-04  Criar um novo contato**	|
+| Caso de Teste 	| **CT-04  Cadastrar um novo contato**	|
 |Requisito Associado | RF-004	- Deve permitir que o usuário cadastre um novo contato. |
 | Objetivo do Teste 	| Verificar se o usuário consegue cadastrar um novo contato. |
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> - Preencher os campos necessários <br> - Clicar em "Adicionar" |
