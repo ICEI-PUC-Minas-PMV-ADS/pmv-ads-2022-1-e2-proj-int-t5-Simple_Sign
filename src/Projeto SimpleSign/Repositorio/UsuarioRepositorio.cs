@@ -13,7 +13,7 @@ namespace SimpleSign.Repositorio
 
         public UsuarioRepositorio(BancoContent bancoContext)
         {
-            _bancoContext = bancoContext;
+            this._bancoContext = bancoContext;
 
         }
         public UsuarioModel BuscarPorLogin(string login)
@@ -21,7 +21,7 @@ namespace SimpleSign.Repositorio
             return _bancoContext.Usuarios.FirstOrDefault(x => x.Login.ToUpper() == login.ToUpper());
 
         }
-        public UsuarioModel BuscarPorEmailELogin(string login, string email)
+        public UsuarioModel BuscarPorEmailELogin( string email, string login)
         {
             return _bancoContext.Usuarios.FirstOrDefault(x => x.Email.ToUpper() == email.ToUpper() && x.Login.ToUpper() == login.ToUpper());
 

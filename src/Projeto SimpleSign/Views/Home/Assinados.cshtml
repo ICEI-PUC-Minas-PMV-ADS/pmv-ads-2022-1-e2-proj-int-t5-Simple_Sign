@@ -1,0 +1,143 @@
+﻿
+@{
+    ViewData["Title"] = "Assinados";
+    
+}
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" integrity="sha384-zCbKRCUGaJDkqS1kPbPd7TveP5iyJE0EjAuZQTgFLD2ylzuqKfdKlfG/eSrtxUkn" crossorigin="anonymous">    
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css">
+    <!-- Estilo customizado -->
+    <link rel="stylesheet" href="stylelogado.css" type="text/css">   
+    
+    <title>Simple Sign - Minhas assinaturas</title>
+   
+
+    <body>
+   
+    <section class="mt-4 mb-4 buttons">
+        <div class="container">
+            <div id="legenda" class="row">
+                <div class="col-md-3">
+                    <div type="button" class="btn btn-md btn-info">
+                        <a href="">Novo documento</a>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <a  role="button"  class="btn btn-md btn-success">
+                        Assinados
+                    </a>
+                </div>
+                <div class="col-md-3">
+                    <button  class="btn btn-md btn-warning" >
+                        Aguardando
+                    </button>
+                </div>
+                <div class="col-md-3">
+                    <button  class="btn btn-md btn-danger">
+                        Preciso assinar
+                    </button>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="container quadro">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="publicar-arquivo">
+                        <h4>Novo Documento</h4>
+                        <p>Para iniciar o processo e importar um documento a ser assinado, clique no botão abaixo:</p>
+                    </div>
+                 
+                    <div class="modal fade" id="exampleModalToggle" aria-hidden="true" aria-labelledby="exampleModalToggleLabel" tabindex="-1">
+                      <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title " id="exampleModalToggleLabel"> Importe seu docuemnto</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                          </div>
+                          <div class="modal-body">
+                            <div class="mb-3">
+                              <label for="formFile" class="form-label">Selecionar docuemnto</label>
+                              <input class="form-control" type="file" id="formFile">
+                            </div>
+                          </div>
+                          <div class="modal-footer">
+                            <button class="btn btn-primary" data-bs-target="#model2" data-bs-toggle="modal" data-bs-dismiss="modal">Proximo</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="modal fade" id="exampleModalToggle2" aria-hidden="true" aria-labelledby="exampleModalToggleLabel2" tabindex="-1">
+                      <div class="modal-dialog modal-dialog-centered">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="model2">Selecione os Usuario</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                          </div>
+                          <div class="modal-body">
+                           <div class="mb-3">
+                              <label for="exampleFormControlInput1" class="form-label">Email</label>
+                              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                            </div>
+                            <div class="mb-3">
+                              <label for="exampleFormControlTextarea1" class="form-label">Example textarea</label>
+                              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                            </div>
+                          </div>
+                          <div class="modal-footer">
+                            <button class="btn btn-primary" data-bs-target="#exampleModalToggle" data-bs-toggle="modal" data-bs-dismiss="modal">Enviar</button>
+                          </div>
+                        </div>
+                      </div>
+                      
+                    </div>
+                    <a class="btn btn-md btn-outline-light mt-4" data-bs-toggle="modal" href="#exampleModalToggle" role="button">Publicar Documento</a>
+                </div>
+                           
+              
+                <div class="col-md-4 dashboard">
+                    <div class="col-md-8 elementos">
+                        <div>
+                            <p>Preciso assinar</p>
+                        </div>
+                        <hr>
+                        <div>
+                            <p>Aguardando</p>
+                        </div>
+                        <hr>
+                        <div>
+                            <p>Assinados</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 valores">
+                        <div>
+                            <p>1</p>
+                        </div>
+                        <hr>
+                        <div>
+                            <p>1</p>
+                        </div>
+                        <hr>
+                        <div>
+                            <p>12</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <p class="quantidade">2</p>
+                    <p>Documentos para assinatura</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="js/bootstrap.min.js"></script>
+</body>

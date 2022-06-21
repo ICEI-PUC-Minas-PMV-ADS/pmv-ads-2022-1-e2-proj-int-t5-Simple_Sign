@@ -15,6 +15,14 @@ namespace SimpleSign.Controllers
             return View();
         }
 
-    
+        public IActionResult PrecisoAssinar()
+        {
+            return View();
+        }
+
+        public IActionResult Assinados()
+        {
+            return View( );
+        }
     }
 }

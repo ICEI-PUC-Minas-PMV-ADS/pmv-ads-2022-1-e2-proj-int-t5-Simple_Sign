@@ -26,6 +26,8 @@ namespace SimpleSign.Models
         public PerfilEnum? Perfil { get; set; }
 
         [Required(ErrorMessage = "Digite a senha do usuario")]
+        
+        
        
 
         public string Senha { get; set; }

@@ -93,7 +93,7 @@ namespace SimpleSign.Controllers
                     string corpoEmail = "Olá, " + usuario.Nome + " Bem vindo ao sistema! Cadastro realizado com sucesso!" +
                         " Agora você já está pronto para utilizar suas assinaturas.";
                     objsup.EnviarEmail("Bem Vindo Ao SimpleSign!", usuario.Email, corpoEmail);
-                    TempData["MensagemSucesso"] = $"Cadastro realizado com sucesso!";
+                    TempData["MensagemSucesso"] = $"Cadastro realizado com sucesso! Enviamos um email de confirmação!";
                     return RedirectToAction("Index", "Login");
 
 
@@ -102,11 +102,11 @@ namespace SimpleSign.Controllers
                 else
                 {
                     Suporte objsup = new Suporte();
-                    string corpoEmail = "Olá" + usuario.Nome + "Bem vindo ao sistema. Senha Redefinida com sucesso!";
+                    string corpoEmail = "Olá" + usuario.Nome + "Bem vindo ao sistema. Cadastro realizado com sucesso!";
                     objsup.EnviarEmail("Bem Vindo Ao SimpleSign", usuario.Email, corpoEmail);
-                    TempData["MensagemSucesso"] = $"Enviamos para seu e-mail cadastrado uma nova senha.";
-                    
-                    
+                    TempData["MensagemSucesso"] = $"Cadastro realizado com sucesso! Enviamos um email de confirmação!";
+
+
                     return RedirectToAction("Index", "Login");
                 }
 
@@ -139,6 +139,7 @@ namespace SimpleSign.Controllers
                         Nome = usuarioSemSenhaModel.Nome,
                         Login = usuarioSemSenhaModel.Login,
                         Email = usuarioSemSenhaModel.Email,
+                        
                        Perfil = usuarioSemSenhaModel.Perfil
 
 

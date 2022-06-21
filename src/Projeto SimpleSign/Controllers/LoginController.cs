@@ -97,18 +97,26 @@ namespace SimpleSign.Controllers
                     {
                         string novaSenha = usuario.GerarNovaSenha();
                         _usuarioRepositorio.Atualizar(usuario);
+                        Suporte objsup = new Suporte();
+                        string corpoEmail = $"Olá  Sua nova senha  é : {novaSenha}  "  + 
+                            " Bem vindo ao sistema!" + usuario.Nome + 
+                            "Senha Alterada com sucesso!" +
+                           " Agora você já pode voltar a utilizar suas assinaturas.";
+                        
+                        objsup.EnviarEmail("Recuperação de senha SimpleSign!", usuario.Email, corpoEmail);
 
                         TempData["MensagemSucesso"] = $"Enviamos para seu e-mail cadastrado uma nova senha.";
                         return RedirectToAction("Index", "Login");
 
+                       
 
-
-                    }                    
-
-                        TempData["MensagemErro"] = $"Não conseguimos redefinir sua senha. Por favor, verifique os dados informados.";
                     }
+                   
 
-                    return View("Index");
+                    }
+                TempData["MensagemErro"] = $"Não conseguimos redefinir sua senha. Por favor, verifique os dados informados.";
+
+                return View("Index");
                 }
                 catch (Exception erro)
                 {

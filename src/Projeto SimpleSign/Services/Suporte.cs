@@ -9,7 +9,7 @@ namespace SimpleSign.Services
         {
             MailMessage objmail = new MailMessage();
             objmail.To.Add(emailDestinatario);
-            objmail.From = new MailAddress("sacsimplesign@outlook.com");
+            objmail.From = new MailAddress("sacsimplesign@hotmail.com");
             objmail.Body = corpoEmail;
             objmail.Subject = Assunto;
 
@@ -17,7 +17,7 @@ namespace SimpleSign.Services
             objsmtp.Host = "smtp-mail.outlook.com";
             objsmtp.Port = 587;
             objsmtp.UseDefaultCredentials = false;
-            objsmtp.Credentials = new NetworkCredential("sacsimplesign@outlook.com", "SimpleSign123");
+            objsmtp.Credentials = new NetworkCredential("sacsimplesign@hotmail.com", "SimpleSign123");
             objsmtp.EnableSsl = true;
             objsmtp.Send(objmail);
         }
