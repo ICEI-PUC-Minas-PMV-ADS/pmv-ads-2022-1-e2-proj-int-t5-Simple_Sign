@@ -4,7 +4,7 @@
 
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 
-## Cadastro
+## Cadastrar Perfil
 
 Primeiramente o usuário precisará realizar o seu cadastro na plataforma Simple Sign, será necessario algumas informações tais como nome, cpf, e-mail e senha.
 
@@ -14,7 +14,7 @@ Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173379693-c61db60e-27d7-4d81-950e-981c2eb2d732.mp4
 
-## Login
+## Efetuar login
 
 Ao acessar a página de login o usuário irá inserir as seguintes informações: CPF e senha.
 
@@ -23,6 +23,16 @@ Ao acessar a página de login o usuário irá inserir as seguintes informações
 Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173382064-f4b41c29-a6db-4126-b67c-97a9d18687ba.mp4
+
+## Recuperação de Senha
+
+Ao acessar a página de recuperação de senha o usuário irá inserir as seguintes informações: CPF e E-mail.
+
+![novaSenha]()
+
+Um exemplo é apresentado no vídeo abaixo:
+
+.....................................................................................
 
 ## Dashboard
 
