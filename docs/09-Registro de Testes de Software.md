@@ -33,7 +33,9 @@ Ao acessar a página de recuperação de senha o usuário irá inserir as seguin
 
 Um exemplo é apresentado no vídeo abaixo:
 
-.....................................................................................
+
+https://user-images.githubusercontent.com/90660755/174819348-5c7fb557-99c7-4bcb-b33a-b47960ed7c85.mp4
+
 
 ## Dashboard
 
