@@ -28,7 +28,8 @@ https://user-images.githubusercontent.com/90660755/173382064-f4b41c29-a6db-4126-
 
 Ao acessar a página de recuperação de senha o usuário irá inserir as seguintes informações: CPF e E-mail.
 
-![novaSenha]()
+![redefinirSenha](https://user-images.githubusercontent.com/90660755/174819044-1caa31b1-bb4e-426c-a256-85503b1d0310.png)
+
 
 Um exemplo é apresentado no vídeo abaixo:
 
