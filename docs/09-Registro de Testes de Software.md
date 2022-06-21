@@ -37,17 +37,6 @@ Um exemplo é apresentado no vídeo abaixo:
 https://user-images.githubusercontent.com/90660755/174819348-5c7fb557-99c7-4bcb-b33a-b47960ed7c85.mp4
 
 
-## Dashboard
-
-Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
-
-![dashboard](https://user-images.githubusercontent.com/90660755/173383505-016fc8f3-74b5-450c-a571-8971fa2b7ea8.png)
-
-Um exemplo é apresentado no vídeo abaixo:
-
-https://user-images.githubusercontent.com/90660755/173384166-b3949761-0b82-4143-aa2b-ffdaa4d6454e.mp4
-
-
 ## Cadastro de Contatos
 
 Na página de cadastro é possível cadastrar um novo contato, com as seguintes informações: nome, e-mail e cpf. 
@@ -79,6 +68,10 @@ Nesta página o usário poderá editar qualquer informação do contato.
 Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173387989-948ea9b6-f1d5-4129-b4a1-c83c75ea942c.mp4
+
+## Dashboard
+
+Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
 
 
 
