@@ -3001,19 +3001,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Atos\\.nuget\\packages\\": {}
+    "C:\\Users\\Jahzi\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto SimpleSign\\SimpleSign.csproj",
+      "projectUniqueName": "C:\\Users\\Jahzi\\OneDrive\\Área de Trabalho\\Simple_Sign\\src\\Projeto SimpleSign\\SimpleSign.csproj",
       "projectName": "SimpleSign",
-      "projectPath": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto SimpleSign\\SimpleSign.csproj",
-      "packagesPath": "C:\\Users\\Atos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Atos\\Source\\Repos\\pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign\\src\\Projeto SimpleSign\\obj\\",
+      "projectPath": "C:\\Users\\Jahzi\\OneDrive\\Área de Trabalho\\Simple_Sign\\src\\Projeto SimpleSign\\SimpleSign.csproj",
+      "packagesPath": "C:\\Users\\Jahzi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Jahzi\\OneDrive\\Área de Trabalho\\Simple_Sign\\src\\Projeto SimpleSign\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Atos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jahzi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3106,7 +3106,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   },
