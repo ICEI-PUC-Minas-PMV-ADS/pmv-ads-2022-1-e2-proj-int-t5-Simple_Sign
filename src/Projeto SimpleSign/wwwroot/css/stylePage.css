@@ -1,6 +1,10 @@
+*{
+    margin: 0;
+}
+
 body {
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    
 }
 
 section {
@@ -8,8 +12,9 @@ section {
 }
 
 .header {
-    background: #5373A2;
+    background: linear-gradient(180deg, #4E719D, #5373A2);
     height: 100vh;
+    margin-top: 4px;
     color: white;
     font-size: 40px;
 }
@@ -23,9 +28,9 @@ footer {
 }
 
 nav {
-    height: 75px;
     display: flex;
     justify-content: space-between;
+    margin-top: 20px;
 }
 
 .ul1 {
@@ -34,28 +39,34 @@ nav {
     width: 500px;
     justify-content: space-around;
     font-size: 30px;
+    
 }
 
 li {
-   display: flex;
+    text-decoration: none;
+}
+
+li {
+    display: flex;
+}
+
+.ul1 a:hover {
+    background: #7d859762;
 }
 
 h1 {
     font-size: 90px;
     margin: 0;
-    font-weight: bold;
 }
 
 h2 {
     font-size: 50px;
-    font-weight: bold;
 }
 
 p {
     margin: 0;
     font-size: 30px;
     font-weight: 300;
-    
 }
 
 .subtext {
@@ -69,30 +80,28 @@ p {
     width: 100%;
     justify-content: space-around;
     align-items: center;
-    font: Poppins, sans-serif;
 }
 
-.main-area img { 
-    margin-left: 180px;
-    margin-bottom: 180px;
-}
+    .main-area img {
+        margin-left: 180px;
+        margin-bottom: 180px;
+    }
 
 .main-text {
     margin-left: 80px;
     margin-bottom: 200px;
-   
 }
 
-.botoes {
+.buttonNav {
     display: flex;
     margin-right: 60px;
+    font-size: 15px;
     
 }
 
-.button {
-    font-size: 15px;
-    padding-top: 5px;
-    margin-top: 20px;
+.btnMobile {
+    background-color: black;
+    display: none;
 }
 
 
@@ -125,7 +134,7 @@ p {
     background-color: #f1ececaf;
     width: 300px;
     height: 500px;
-    box-shadow: 5px 5px 20px rgb(197, 194, 195);
+    box-shadow: 5px 5px 20px rgb(197, 195, 195);
     margin: 10px;
 }
 
@@ -142,9 +151,14 @@ p {
     border-radius: 125px;
 }
 
-hr {
-    margin-left: 20px;
-    margin-right: 20px;
+.hr1 {
+    margin-top: -50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.hr2 {
+    margin-top: 5px;
 }
 
 .project-link {
@@ -157,15 +171,75 @@ hr {
 
 a {
     text-decoration: none;
-    color: white;
+    color: rgb(243, 241, 241);
 }
 
 svg {
-    height: 25px;
-    width: 25px;
+    margin-top: 10px;
+    height: 30px;
+    width: 30px;
     margin-left: 7px;
 }
 
+@media only screen and (max-width: 900px) {
+
+    .project-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sub-section {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .headshot {
+        display: none;
+    }
+
+    .main-area {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .main-text p {
+        display: flex;
+    }
+
+    .landingPageImg {
+        display: none;
+    }
 
 
+    header {
+        display: flex;
+        position: absolute;
+        width: 100%;
+        top: 70px;
+        right: 0px;
+        background: #45526d;
+        height: 0;
+        z-index: 1000;
+    }
 
+    .botoes {
+        display: flex;
+        position: absolute;
+        
+    }
+
+    #nav.active .ul1 {
+        height: calc(50vh - 70px);
+        display: block;
+    }
+
+    .ul1 a {
+        padding: 1rem 0;
+        margin: 0 1rem;
+        border-bottom: 2px solid rgb(197, 195, 195);
+    }
+
+    hr {
+        display: none;
+    }
+}
