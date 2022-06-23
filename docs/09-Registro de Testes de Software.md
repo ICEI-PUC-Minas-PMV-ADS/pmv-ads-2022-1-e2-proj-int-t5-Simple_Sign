@@ -82,6 +82,16 @@ A aplicação em tela reduzida
 
 ![responsivo 1](https://user-images.githubusercontent.com/90660755/175324759-c1d3fbb5-8489-4884-91b5-e80045f510d2.png)
 
+## Design
+
+Design simples e autoexplicativo.
+
+![landig page1](https://user-images.githubusercontent.com/90660755/175324675-a8e58591-bc32-40f8-aff5-d045a890f5d4.png)
+
+Um exemplo é apresentado no vídeo abaixo:
+
+......
+
 
 
 
