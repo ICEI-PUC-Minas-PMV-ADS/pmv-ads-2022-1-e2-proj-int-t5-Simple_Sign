@@ -49,4 +49,10 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar a responsividade da aplicação <br> |
 |Critério de Êxito | - A aplicação está responsiva. |
 |  	|  	|
+| Caso de Teste 	| **CT-08  Design**	|
+|Requisito Associado | RNF-003 	Deve ter um design simples e autoexplicativo. |
+| Objetivo do Teste 	| Verificar se o usuário consegue navegar pela aplicação. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar o design e a simplicidade da aplicação <br> |
+|Critério de Êxito | - A aplicação tem um design simples e autoexplicativo . |
+|  	|  	|
 
