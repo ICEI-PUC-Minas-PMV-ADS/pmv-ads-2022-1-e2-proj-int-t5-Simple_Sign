@@ -69,10 +69,8 @@ A tabela a seguir apresenta os requisitos do projeto, identificando a prioridade
 |RF-004| Deve permitir que o usuário cadastre um novo contato.  | ALTA |
 |RF-005| Deve permitir que o usário edite um contato. | ALTA |
 |RF-006| Deve permitir que o usário delete um contato. | ALTA 
-|RF-007| Deve permitir que os documentos armazenados sejam direcionados a outros usuários para assinatura | ALTA |
-|RF-008| Deve disparar um e-mail informando ao destinatário responsável pela assinatura sobre a alteração do status do documento | MÉDIA |
-|RF-009| Deve permitir a interação dos usuários por meio da abertura de um tíquete/chamado para alteração das informações contidas no documento, especificando onde é necessário mudar e qual a mudança | MÉDIA |
-|RF-010| Deve registrar as informações de data/hora das interações de forma automática | BAIXA |
+
+
 
 
 
@@ -90,7 +88,7 @@ A tabela a seguir apresenta os requisitos não funcionais que o projeto deverá 
 |RNF-005| Deve estar acessível 24/7 | MÉDIA |
 |RNF-006| Deve testar a segurança e veracidade do usuário	 | ALTA |
 |RNF-007| Deve possibilitar o armazenamento de arquivos no formato PDF | ALTA |
-|RNF-008| Deve possuir filtros para parametrizar a busca | ALTA |
+
 
 ## Restrições
 
