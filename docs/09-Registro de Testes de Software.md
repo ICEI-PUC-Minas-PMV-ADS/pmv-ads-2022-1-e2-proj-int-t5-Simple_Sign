@@ -90,9 +90,8 @@ Design simples e autoexplicativo.
 
 Um exemplo é apresentado no vídeo abaixo:
 
-......
 
-
+https://user-images.githubusercontent.com/90660755/175330772-5d5672f7-cc3f-4376-a403-590882eaeeeb.mp4
 
 
 ## Dashboard
