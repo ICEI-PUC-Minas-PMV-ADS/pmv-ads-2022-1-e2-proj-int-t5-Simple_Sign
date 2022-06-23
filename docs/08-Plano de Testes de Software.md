@@ -43,4 +43,10 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
+| Caso de Teste 	| **CT-07  Responsividade**	|
+|Requisito Associado | RNF-002 	Deve ser responsivo permitindo a visualização em qualquer dispositivo. |
+| Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em qualquer dispositivo. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar a responsividade da aplicação <br> |
+|Critério de Êxito | - A aplicação está responsiva. |
+|  	|  	|
 
