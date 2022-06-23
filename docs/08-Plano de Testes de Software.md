@@ -55,4 +55,12 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar o design e a simplicidade da aplicação <br> |
 |Critério de Êxito | - A aplicação tem um design simples e autoexplicativo . |
 |  	|  	|
+| Caso de Teste 	| **CT-09  Navegadores**	|
+|Requisito Associado | RNF-004 	Deve ser compatível com os principais navegadores do mercado. |
+| Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em outros navegadores. |
+| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Testar a aplicação em outros navegadores <br> |
+|Critério de Êxito | - A aplicação é compatível com os principais navegadores do mercado . |
+|  	|  	|
+
+
 
