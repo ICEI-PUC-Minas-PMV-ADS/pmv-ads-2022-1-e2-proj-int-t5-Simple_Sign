@@ -43,27 +43,4 @@ Os testes funcionais a serem realizados no aplicativo são descritos a seguir.
 | Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> -Na página inicial clicar em "Contatos" <br> - Clicar em "Apagar" <br> - Clicar em "Confirmar exclusão"  |
 |Critério de Êxito | - O contato foi apagado com sucesso. |
 |  	|  	|
-| Caso de Teste 	| **CT-07  **	|
-|Requisito Associado | RF-007	- Deve permitir que os documentos armazenados sejam direcionados a outros usuários para assinatura. |
-| Objetivo do Teste 	| Verificar se o usuário consegue direcionar documentos armazenados para outros usuários assinarem. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Na página inicial clicar em "Arquivos" <br> - Clicar em "Direcionar documento" <br> - Clicar em "Direcionar documento para assinatura"  |
-|Critério de Êxito | - O documento foi enviado para assinatura com sucesso. |
-|  	|  	|
-| Caso de Teste 	| **CT-08  **	|
-|Requisito Associado | RF-008	- Deve disparar um e-mail informando ao destinatário responsável pela assinatura sobre a alteração do status do documento. |
-| Objetivo do Teste 	| Verificar se foi enviado ao destinatário que assinará o documento, um em-mail informando sobre a alteração de status do documento. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Na página inicial clicar em "Arquivos" <br> Clicar em "Direcionar documento" <br> Clicar em "Direcionar documento para assinatura" <br> Quando o documento for direcionado, o sistema enviará um email ao destinatário informando alteração do status do documento. |
-|Critério de Êxito | - O e-mail foi enviado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| **CT-09  **	|
-|Requisito Associado | RF-009	- Deve permitir a interação dos usuários por meio da abertura de um tíquete/chamado para alteração das informações contidas no documento, especificando onde é necessário mudar e qual a mudança. |
-| Objetivo do Teste 	| Permitir os usuários interagirem através de abertura de chamados para alteração informaçãoes do no documento. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Na página inicial clicar em "Arquivos" <br> Clicar em "Abrir chamado" <br> Selecionar o documento para alteração <br> Descrever em detalhes onde é necessária a modificação da informação contida no documento. <br> - Clicar em "Solicitar alteração" |
-|Critério de Êxito | - Alteração de solicitada com sucesso. |
-|  	|  	|
-| Caso de Teste 	| **CT-10  Em interações, registrar data e hora**	|
-|Requisito Associado | RF-010	- Deve registrar as informações de data/hora das interações de forma automática. |
-| Objetivo do Teste 	| Gravar a data e hora em que a interação foi realizada. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site <br> - Clicar no "Ícone de login" <br> - Preencher o campo de CPF <br> - Preencher o campo da senha <br> - Clicar em "Login" <br> - Na página inicial clicar em "Arquivos" <br> Clicar em "Abrir chamado" <br> Selecionar o documento para alteração <br> Descrever em detalhes onde é necessária a modificação da informação contida no documento. <br> - Clicar em "Solicitar alteração" | <br> Alteração solicitada com sucesso às 00h00 - 01/01/2022 |
-|Critério de Êxito | - Interação registrada automática. |
-|  	|  	|
+
