@@ -69,6 +69,22 @@ Um exemplo é apresentado no vídeo abaixo:
 
 https://user-images.githubusercontent.com/90660755/173387378-1402e17a-86b3-420b-bc69-4a30543b0028.mp4
 
+## Responsividade
+
+A aplicação está responsiva.
+
+Aplicação em tela cheia
+
+![landig page1](https://user-images.githubusercontent.com/90660755/175324675-a8e58591-bc32-40f8-aff5-d045a890f5d4.png)
+
+
+A aplicação em tela reduzida
+
+![responsivo 1](https://user-images.githubusercontent.com/90660755/175324759-c1d3fbb5-8489-4884-91b5-e80045f510d2.png)
+
+
+
+
 ## Dashboard
 
 Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
