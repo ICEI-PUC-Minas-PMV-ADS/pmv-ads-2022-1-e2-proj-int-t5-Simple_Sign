@@ -3,14 +3,26 @@ html {
     
 }
 
-@media (min-width: 768px) {
-  html {
-    font-size: 16px;
-  }
-}
 
-
-
+.homeBtn {
+    font-weight: 500;
+    border-radius: 4px;
+    letter-spacing: 1px;
+    z-index: 1;
+    margin-left: 1100px;
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    font-weight: 400;
+    border: none;
+    text-decoration: none;
+    font-size: 17px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #1C1F23;
+    white-space:normal !important;
+ }
 
 html {
   position: relative;
