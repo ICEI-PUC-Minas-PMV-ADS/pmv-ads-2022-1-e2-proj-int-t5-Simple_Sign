@@ -96,7 +96,10 @@ https://user-images.githubusercontent.com/90660755/175330772-5d5672f7-cc3f-4376-
 
 ## Dashboard
 
-Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu lateral possui 3 ferramentas: Páginia Inicial, Contatos e Sair.
+Continuando o plano de testes, depois de realizar o login, constatamos que o usuário é direcionado à página que mostra os instrumentos de que terá acesso para suas assinaturas. Essa página, que chamamos de Dashboard apresenta também a página de acesso cujo menu superior possui quatro ferramentas: Páginia Inicial, Contatos, Arquivos e Sair.
+
+![dashBoard](https://user-images.githubusercontent.com/90660755/175832367-dd8d990a-44ea-468c-88ec-8f3eb9ce4bcc.png)
+
 
 
 
