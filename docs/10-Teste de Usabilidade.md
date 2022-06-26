@@ -4,7 +4,7 @@ Testes de funcionalidades e regras de negócios avaliam o funcionamento da ferra
 
 O teste de usabilidade permite avaliar a qualidade da interface com o usuário da aplicação interativa, utilizandi uma avaliação por observação. Por meio dele, são recolhidos dados sobre comportamento, medindo e considerando as reações dos usuários diante de diferentes layouts e funcionalidades. Após sua realização, uma análise de usabilidade e das principais dificuldades é efetuada para realizar melhorias na plataforma, proporcionando uma melhor experiência ao usuário.
 
-O planejamento dos testes de usabilidade a serem realizados com usuários são descritos a seguir: Requisitos do teste; Método utilizado; Ojetivos do teste de usabilidade;  Roteiro detalhado das tarefas que foram desempenhadas pelos usuários. A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade adotado para aplicação M@tchbook.
+O planejamento dos testes de usabilidade a serem realizados com usuários são descritos a seguir: Requisitos do teste; Método utilizado; Ojetivos do teste de usabilidade;  Roteiro detalhado das tarefas que foram desempenhadas pelos usuários. A seguir, estão listados os parâmetros do Plano de Teste de Usabilidade adotado para aplicação SimpleSign.
 
 Para o projeto em questão, realizaremos o modelo de Testes Remotos Não Moderados de Usabilidade.
 
@@ -135,7 +135,7 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Perfil** 	| Usuário com deficiência visual	|
 | **Objetivo do Teste** 	| Verificar se usuários com deficiências visuais conseguem utilizar todas as ferramentas do site 	|
 | **Ações necessárias** 	| 1. Ativar NVDA para acessar o site;<br>2. Acessar a primeira tela do site pelo browser;<br>3. Efetuar login na aplicação;<br>4. Verificar se há atalho de fácil acesso para o retorno à página inicial;<br> 5. Checar se há descrição não redundantes nas imagens; <br> 6.Verificar o contraste entre as cores.|
-|
+
 
 ## Análise do teste e resultados
 
