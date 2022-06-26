@@ -21,8 +21,10 @@ Este trabalho visa a criação de um software que facilite as pessoas e entidade
 
 ## Instruções de utilização
 
-1. Abra o link https://simplesignproject.azurewebsites.net; <br>2. Click em fazer cadastro; <br>3.Acesse a pagina de login com CPF e Senha escolhida; 
-2. 
+1. Abra o link https://simplesignproject.azurewebsites.net; 
+2. <br>2. Click em fazer cadastro; 
+3. <br>3.Acesse a pagina de login com CPF e Senha escolhida; 
+
 # Documentação
 
 <ol>
