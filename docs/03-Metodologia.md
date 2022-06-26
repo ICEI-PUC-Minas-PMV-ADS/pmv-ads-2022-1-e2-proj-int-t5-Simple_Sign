@@ -60,10 +60,10 @@ Para o desenvolvimento da aplicação, serão utilizadas as seguintes plataforma
 |`Ambiente`|`Plataforma` |`Link de Acesso` |
 |:------------------:|:------------------:|:------------------:|
 |Desenvolvimento do código|VS code||
-|Repositório de código fonte|GitHub|| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Projeto%20SimpleSign
+|Repositório de código fonte|GitHub||  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/tree/main/src/Projeto%20SimpleSign
 |Documentos do projeto|Google Drive||
 |Projeto de Interface|Mock Flow||
-|Arquitetura de Soluções |BR Modelos Web e Lucidchart|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md|
+|Arquitetura de Soluções |BR Modelos Web e Lucidchart| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/docs/05-Arquitetura%20da%20Solu%C3%A7%C3%A3o.md|
 |Wireframes|Figma|| https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e2-proj-int-t5-Simple_Sign/blob/main/docs/06-Template%20Padr%C3%A3o%20da%20Aplica%C3%A7%C3%A3o.md
 |Gerenciamento do Projeto|GitHub||
 
