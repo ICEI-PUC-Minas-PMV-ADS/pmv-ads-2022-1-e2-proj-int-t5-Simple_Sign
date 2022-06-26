@@ -12,7 +12,6 @@ Este trabalho visa a criação de um software que facilite as pessoas e entidade
 ## Integrantes
 
 * Breno Silva
-* Daniel Borges
 * Gabriel Garcia
 * Kaique Rocha
 
