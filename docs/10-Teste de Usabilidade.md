@@ -130,11 +130,6 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar se a aplicação é responsiva nos navegadores Chrome, Firefox, Edge, Safari e smartphones android e IOS 	|
 | **Passos** 	| 1. Acessar o navegador;<br>2. Informar o endereço do Site;<br>3. Realizar o login;<br>4. Percorrer as páginas e funcionalidades da aplicação;<br>5. Verificar se as informações estão ordenadas de uma forma clara na tela. 	|
-|  	|  	|
-| **Caso de Teste** 	| **CTU-11 – Acessibilidade** |
-| **Perfil** 	| Usuário com deficiência visual	|
-| **Objetivo do Teste** 	| Verificar se usuários com deficiências visuais conseguem utilizar todas as ferramentas do site 	|
-| **Ações necessárias** 	| 1. Ativar NVDA para acessar o site;<br>2. Acessar a primeira tela do site pelo browser;<br>3. Efetuar login na aplicação;<br>4. Verificar se há atalho de fácil acesso para o retorno à página inicial;<br> 5. Checar se há descrição não redundantes nas imagens; <br> 6.Verificar o contraste entre as cores.|
 
 
 ## Análise do teste e resultados
