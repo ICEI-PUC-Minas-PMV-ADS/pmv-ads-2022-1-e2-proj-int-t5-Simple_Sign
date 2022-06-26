@@ -120,20 +120,20 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a tela edição  de contatos	|
 | **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Clicar em Contatos; <br>6. visualizar lista de contatos; <br>7. Clicar em editar Contatos;<br>8. Alterar dados do Contato;<br>9. Visializar na lista se foi alterado com sucesso;|
-| **Caso de Teste** 	| **CTU-05 – Tela Funcionalidades + Excluir contato** 	|
+
     |    |
 | **Caso de Teste** 	| **CTU-05 – Tela Funcionalidades + Excluir Contatos** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a tela exclusão de contatos 	|
-| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Clicar em Contatos; <br>6. visualizar lista de contatos; <br>7. Clicar em exluir Contato;<br>8. Confirmar exlusão;<br>9. Visializar na lista se foi alterado com sucesso;|
-| **Caso de Teste** 	| **CTU-05 – Tela Funcionalidades + Excluir contato** 	|
+| **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Clicar em Contatos; <br>6. visualizar lista de contatos; <br>7. Clicar em exluir Contato;<br>8. Confirmar exlusão;<br>9. Visializar na lista se foi exluido com sucesso;|
+
     |    |
 | **Caso de Teste** 	| **CTU-11 – Verificar se o sistema é responsivo** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar se a aplicação é responsiva nos navegadores Chrome, Firefox, Edge, Safari e smartphones android e IOS 	|
 | **Passos** 	| 1. Acessar o navegador;<br>2. Informar o endereço do Site;<br>3. Realizar o login;<br>4. Percorrer as páginas e funcionalidades da aplicação;<br>5. Verificar se as informações estão ordenadas de uma forma clara na tela. 	|
 |  	|  	|
-| **Caso de Teste** 	| **CTU-12 – Acessibilidade** 	|
+| **Caso de Teste** 	| **CTU-12 – Acessibilidade** 	                    |
 | **Perfil** 	| Usuário com deficiência visual	|
 | **Objetivo do Teste** 	| Verificar se usuários com deficiências visuais conseguem utilizar todas as ferramentas do site 	|
 | **Ações necessárias** 	| 1. Ativar NVDA para acessar o site;<br>2. Acessar a primeira tela do site pelo browser;<br>3. Efetuar login na aplicação;<br>4. Verificar se há atalho de fácil acesso para o retorno à página inicial;<br> 5. Checar se há descrição não redundantes nas imagens; <br> 6.Verificar o contraste entre as cores. 	|
