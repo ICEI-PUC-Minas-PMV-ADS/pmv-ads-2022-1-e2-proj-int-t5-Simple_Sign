@@ -106,7 +106,7 @@ Seguem as tarefas a serem executadas pelos participantes e observadas
 | **Objetivo do Teste** 	| Avaliar a tela de exibição de documentos 	|
 | **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Verificar se a página exibe uma lista de documentos preeexistente. 	|
 |  	|  	|
-| **Caso de Teste** 	| **CTU-06 – Importar Docuementos** 	|
+| **Caso de Teste** 	| **CTU-06 – Importar Documentos** 	|
 | **Perfil** 	| Usuário 	|
 | **Objetivo do Teste** 	| Avaliar a funcionalidade de Importar Documentos 	|
 | **Passos** 	| 1. Acessar o Navegador;<br>2. Informar o endereço do Site;<br>3. Visualizar a página principal;<br>4. Clicar em Entrar;<br>5. Na tela Funcionalidades do Usuário, Importar Arquivos;<br>6. Clicar no botão  e selecionar o arquivo;<br>7. Clicar em enviar"; <br>8. Ser direcionado para tela de exibição de arquivos. 	|
